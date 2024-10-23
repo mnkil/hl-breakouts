@@ -1,0 +1,35 @@
+2024-10-08 04:56:02: bomy package import done...
+{'marginSummary': {'accountValue': '1288.195005', 'totalNtlPos': '4051.919951', 'totalRawUsd': '-2763.724946', 'totalMarginUsed': '362.817822'}, 'crossMarginSummary': {'accountValue': '1288.195005', 'totalNtlPos': '4051.919951', 'totalRawUsd': '-2763.724946', 'totalMarginUsed': '362.817822'}, 'crossMaintenanceMarginUsed': '181.408911', 'withdrawable': '925.377183', 'assetPositions': [{'type': 'oneWay', 'position': {'coin': 'SOL', 'szi': '6.8', 'leverage': {'type': 'cross', 'value': 20}, 'entryPx': '146.45', 'positionValue': '981.036', 'unrealizedPnl': '-14.824', 'returnOnEquity': '-0.29771253', 'liquidationPx': None, 'marginUsed': '49.0518', 'maxLeverage': 20, 'cumFunding': {'allTime': '0.581739', 'sinceOpen': '0.478233', 'sinceChange': '0.478233'}}}, {'type': 'oneWay', 'position': {'coin': 'INJ', 'szi': '47.9', 'leverage': {'type': 'cross', 'value': 20}, 'entryPx': '20.683', 'positionValue': '989.8056', 'unrealizedPnl': '-0.9101', 'returnOnEquity': '-0.01837258', 'liquidationPx': None, 'marginUsed': '49.49028', 'maxLeverage': 20, 'cumFunding': {'allTime': '11.659762', 'sinceOpen': '0.41535', 'sinceChange': '0.0'}}}, {'type': 'oneWay', 'position': {'coin': 'kPEPE', 'szi': '101833.0', 'leverage': {'type': 'cross', 'value': 20}, 'entryPx': '0.009836', 'positionValue': '1012.932851', 'unrealizedPnl': '11.303463', 'returnOnEquity': '0.2257015', 'liquidationPx': None, 'marginUsed': '50.646642', 'maxLeverage': 20, 'cumFunding': {'allTime': '38.233237', 'sinceOpen': '1.314119', 'sinceChange': '1.314119'}}}, {'type': 'oneWay', 'position': {'coin': 'WIF', 'szi': '417.0', 'leverage': {'type': 'cross', 'value': 5}, 'entryPx': '2.398006', 'positionValue': '1068.1455', 'unrealizedPnl': '68.1769', 'returnOnEquity': '0.3408952', 'liquidationPx': None, 'marginUsed': '213.6291', 'maxLeverage': 5, 'cumFunding': {'allTime': '32.348548', 'sinceOpen': '1.008742', 'sinceChange': '1.008742'}}}], 'time': 1728363363659}
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### BREAKOUT SCREENER ###
+
+
+2024-10-08 04:56:04:
+Ticker: PEPEUSDT, Current price: 0.00000995, Price in DB: 0.00000999, DB px close ts: 2024-10-08 04:59:59.999000, %-diff: -0.40%, Donchian Channel High: 0.00001066, Donchian Channel Mid: 0.00000971, Donchian Channel Low: 0.00000876, Donchian Rank: 0.63
+monitor_trailing start
+monitor_trailing end
+### NO BREAKOUT ###
+
+
+2024-10-08 04:56:04:
+Ticker: WIFUSDT, Current price: 2.56200000, Price in DB: 2.58800000, DB px close ts: 2024-10-08 04:59:59.999000, %-diff: -1.00%, Donchian Channel High: 2.76900000, Donchian Channel Mid: 2.40700000, Donchian Channel Low: 2.04500000, Donchian Rank: 0.71
+monitor_trailing start
+monitor_trailing end
+### NO BREAKOUT ###
+
+
+2024-10-08 04:56:04:
+Ticker: INJUSDT, Current price: 20.68000000, Price in DB: 20.78000000, DB px close ts: 2024-10-08 04:59:59.999000, %-diff: -0.48%, Donchian Channel High: 21.68000000, Donchian Channel Mid: 20.43500000, Donchian Channel Low: 19.19000000, Donchian Rank: 0.6
+monitor_trailing start
+monitor_trailing end
+### NO BREAKOUT ###
+
+
+2024-10-08 04:56:05:
+Ticker: SOLUSDT, Current price: 144.25000000, Price in DB: 144.82000000, DB px close ts: 2024-10-08 04:59:59.999000, %-diff: -0.39%, Donchian Channel High: 150.45000000, Donchian Channel Mid: 144.07500000, Donchian Channel Low: 137.70000000, Donchian Rank: 0.51
+monitor_trailing start
+monitor_trailing end
+### NO BREAKOUT ###
+
+
+done

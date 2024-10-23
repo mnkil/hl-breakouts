@@ -1,0 +1,93 @@
+2024-10-08 03:01:05: bomy package import done...
+2024-10-08 03:01:06: bomyPandas init...
+2024-10-08 03:01:06:  <class 'pandas.core.frame.DataFrame'>
+2024-10-08 03:01:06: bomyPandas columns -->
+---------------------------------------
+index: int64
+Open Time: datetime64[ns]
+Open: float64
+High: float64
+Low: float64
+Close: float64
+Volume: float64
+Close Time: datetime64[ns]
+Quote Asset Volume: object
+Number of Trades: int64
+Taker Buy Base Asset Volume: object
+Taker Buy Quote Asset Volume: object
+Ignore: object
+ts_date: datetime64[ns]
+---------------------------------------
+2024-10-08 03:01:06: bomyPandas done...
+Data updated for PEPEUSDT (1/4)
+Progress: 25.00%
+2024-10-08 03:01:06: Data updated for PEPEUSDT
+2024-10-08 03:01:07: bomyPandas init...
+2024-10-08 03:01:07:  <class 'pandas.core.frame.DataFrame'>
+2024-10-08 03:01:07: bomyPandas columns -->
+---------------------------------------
+index: int64
+Open Time: datetime64[ns]
+Open: float64
+High: float64
+Low: float64
+Close: float64
+Volume: float64
+Close Time: datetime64[ns]
+Quote Asset Volume: object
+Number of Trades: int64
+Taker Buy Base Asset Volume: object
+Taker Buy Quote Asset Volume: object
+Ignore: object
+ts_date: datetime64[ns]
+---------------------------------------
+2024-10-08 03:01:07: bomyPandas done...
+Data updated for WIFUSDT (2/4)
+Progress: 50.00%
+2024-10-08 03:01:07: Data updated for WIFUSDT
+2024-10-08 03:01:07: bomyPandas init...
+2024-10-08 03:01:07:  <class 'pandas.core.frame.DataFrame'>
+2024-10-08 03:01:07: bomyPandas columns -->
+---------------------------------------
+index: int64
+Open Time: datetime64[ns]
+Open: float64
+High: float64
+Low: float64
+Close: float64
+Volume: float64
+Close Time: datetime64[ns]
+Quote Asset Volume: object
+Number of Trades: int64
+Taker Buy Base Asset Volume: object
+Taker Buy Quote Asset Volume: object
+Ignore: object
+ts_date: datetime64[ns]
+---------------------------------------
+2024-10-08 03:01:07: bomyPandas done...
+Data updated for INJUSDT (3/4)
+Progress: 75.00%
+2024-10-08 03:01:07: Data updated for INJUSDT
+2024-10-08 03:01:08: bomyPandas init...
+2024-10-08 03:01:08:  <class 'pandas.core.frame.DataFrame'>
+2024-10-08 03:01:08: bomyPandas columns -->
+---------------------------------------
+index: int64
+Open Time: datetime64[ns]
+Open: float64
+High: float64
+Low: float64
+Close: float64
+Volume: float64
+Close Time: datetime64[ns]
+Quote Asset Volume: object
+Number of Trades: int64
+Taker Buy Base Asset Volume: object
+Taker Buy Quote Asset Volume: object
+Ignore: object
+ts_date: datetime64[ns]
+---------------------------------------
+2024-10-08 03:01:08: bomyPandas done...
+Data updated for SOLUSDT (4/4)
+Progress: 100.00%
+2024-10-08 03:01:08: Data updated for SOLUSDT

@@ -1,0 +1,5556 @@
+2024-10-08 05:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,302
+Total Notional Position: 4,066
+Cross Maintenance Margin Used: 182
+Withdrawable: 937
+
+SOL: Position Value: 982, Unrealized PnL: -14
+INJ: Position Value: 991, Unrealized PnL: 0
+kPEPE: Position Value: 1,017, Unrealized PnL: 16
+WIF: Position Value: 1,076, Unrealized PnL: 76
+
+
+### FEED COMPLETE ###
+2024-10-08 06:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,233
+Total Notional Position: 3,997
+Cross Maintenance Margin Used: 180
+Withdrawable: 874
+
+SOL: Position Value: 976, Unrealized PnL: -20
+INJ: Position Value: 970, Unrealized PnL: -21
+kPEPE: Position Value: 986, Unrealized PnL: -16
+WIF: Position Value: 1,065, Unrealized PnL: 65
+
+
+### FEED COMPLETE ###
+2024-10-08 07:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,211
+Total Notional Position: 2,994
+Cross Maintenance Margin Used: 153
+Withdrawable: 904
+
+SOL: Position Value: 979, Unrealized PnL: -17
+INJ: Position Value: 969, Unrealized PnL: -22
+WIF: Position Value: 1,047, Unrealized PnL: 47
+
+
+### FEED COMPLETE ###
+2024-10-08 08:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,164
+Total Notional Position: 1,925
+Cross Maintenance Margin Used: 48
+Withdrawable: 1,068
+
+SOL: Position Value: 972, Unrealized PnL: -24
+INJ: Position Value: 953, Unrealized PnL: -38
+
+
+### FEED COMPLETE ###
+2024-10-08 09:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,183
+Total Notional Position: 1,943
+Cross Maintenance Margin Used: 49
+Withdrawable: 1,086
+
+SOL: Position Value: 977, Unrealized PnL: -19
+INJ: Position Value: 967, Unrealized PnL: -24
+
+
+### FEED COMPLETE ###
+2024-10-08 10:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,162
+Total Notional Position: 1,923
+Cross Maintenance Margin Used: 48
+Withdrawable: 1,066
+
+SOL: Position Value: 978, Unrealized PnL: -18
+INJ: Position Value: 944, Unrealized PnL: -46
+
+
+### FEED COMPLETE ###
+2024-10-08 11:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,167
+Total Notional Position: 1,927
+Cross Maintenance Margin Used: 48
+Withdrawable: 1,071
+
+SOL: Position Value: 981, Unrealized PnL: -15
+INJ: Position Value: 946, Unrealized PnL: -44
+
+
+### FEED COMPLETE ###
+2024-10-08 12:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,174
+Total Notional Position: 1,935
+Cross Maintenance Margin Used: 48
+Withdrawable: 1,077
+
+SOL: Position Value: 983, Unrealized PnL: -13
+INJ: Position Value: 952, Unrealized PnL: -39
+
+
+### FEED COMPLETE ###
+2024-10-08 13:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,151
+Total Notional Position: 1,912
+Cross Maintenance Margin Used: 48
+Withdrawable: 1,056
+
+SOL: Position Value: 975, Unrealized PnL: -21
+INJ: Position Value: 937, Unrealized PnL: -54
+
+
+### FEED COMPLETE ###
+2024-10-08 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,159
+Total Notional Position: 989
+Cross Maintenance Margin Used: 25
+Withdrawable: 1,110
+
+SOL: Position Value: 989, Unrealized PnL: -7
+
+
+### FEED COMPLETE ###
+2024-10-08 15:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,151
+Total Notional Position: 981
+Cross Maintenance Margin Used: 25
+Withdrawable: 1,102
+
+SOL: Position Value: 981, Unrealized PnL: -15
+
+
+### FEED COMPLETE ###
+2024-10-08 16:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,140
+Total Notional Position: 970
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,092
+
+SOL: Position Value: 970, Unrealized PnL: -26
+
+
+### FEED COMPLETE ###
+2024-10-08 17:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,149
+Total Notional Position: 979
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,100
+
+SOL: Position Value: 979, Unrealized PnL: -17
+
+
+### FEED COMPLETE ###
+2024-10-08 18:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,147
+Total Notional Position: 976
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,098
+
+SOL: Position Value: 976, Unrealized PnL: -19
+
+
+### FEED COMPLETE ###
+2024-10-08 19:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,142
+Total Notional Position: 972
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,094
+
+SOL: Position Value: 972, Unrealized PnL: -24
+
+
+### FEED COMPLETE ###
+2024-10-08 20:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,147
+Total Notional Position: 977
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,098
+
+SOL: Position Value: 977, Unrealized PnL: -19
+
+
+### FEED COMPLETE ###
+2024-10-08 21:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,153
+Total Notional Position: 983
+Cross Maintenance Margin Used: 25
+Withdrawable: 1,104
+
+SOL: Position Value: 983, Unrealized PnL: -13
+
+
+### FEED COMPLETE ###
+2024-10-08 22:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,151
+Total Notional Position: 981
+Cross Maintenance Margin Used: 25
+Withdrawable: 1,102
+
+SOL: Position Value: 981, Unrealized PnL: -15
+
+
+### FEED COMPLETE ###
+2024-10-08 23:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,145
+Total Notional Position: 975
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,096
+
+SOL: Position Value: 975, Unrealized PnL: -21
+
+
+### FEED COMPLETE ###
+2024-10-09 00:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,148
+Total Notional Position: 978
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,099
+
+SOL: Position Value: 978, Unrealized PnL: -18
+
+
+### FEED COMPLETE ###
+2024-10-09 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,151
+Total Notional Position: 981
+Cross Maintenance Margin Used: 25
+Withdrawable: 1,102
+
+SOL: Position Value: 981, Unrealized PnL: -15
+
+
+### FEED COMPLETE ###
+2024-10-09 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,155
+Total Notional Position: 985
+Cross Maintenance Margin Used: 25
+Withdrawable: 1,106
+
+SOL: Position Value: 985, Unrealized PnL: -11
+
+
+### FEED COMPLETE ###
+2024-10-09 03:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,151
+Total Notional Position: 980
+Cross Maintenance Margin Used: 25
+Withdrawable: 1,102
+
+SOL: Position Value: 980, Unrealized PnL: -15
+
+
+### FEED COMPLETE ###
+2024-10-09 04:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,148
+Total Notional Position: 978
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,099
+
+SOL: Position Value: 978, Unrealized PnL: -18
+
+
+### FEED COMPLETE ###
+2024-10-09 05:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,147
+Total Notional Position: 977
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,098
+
+SOL: Position Value: 977, Unrealized PnL: -19
+
+
+### FEED COMPLETE ###
+2024-10-09 06:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,150
+Total Notional Position: 980
+Cross Maintenance Margin Used: 25
+Withdrawable: 1,101
+
+SOL: Position Value: 980, Unrealized PnL: -16
+
+
+### FEED COMPLETE ###
+2024-10-09 07:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,145
+Total Notional Position: 975
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,096
+
+SOL: Position Value: 975, Unrealized PnL: -21
+
+
+### FEED COMPLETE ###
+2024-10-09 08:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,144
+Total Notional Position: 974
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,096
+
+SOL: Position Value: 974, Unrealized PnL: -21
+
+
+### FEED COMPLETE ###
+2024-10-09 09:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,143
+Total Notional Position: 973
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,095
+
+SOL: Position Value: 973, Unrealized PnL: -23
+
+
+### FEED COMPLETE ###
+2024-10-09 10:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,144
+Total Notional Position: 974
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,096
+
+SOL: Position Value: 974, Unrealized PnL: -21
+
+
+### FEED COMPLETE ###
+2024-10-09 11:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,140
+Total Notional Position: 970
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,092
+
+SOL: Position Value: 970, Unrealized PnL: -26
+
+
+### FEED COMPLETE ###
+2024-10-09 12:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,144
+Total Notional Position: 974
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,095
+
+SOL: Position Value: 974, Unrealized PnL: -22
+
+
+### FEED COMPLETE ###
+2024-10-09 13:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,136
+Total Notional Position: 966
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,088
+
+SOL: Position Value: 966, Unrealized PnL: -29
+
+
+### FEED COMPLETE ###
+2024-10-09 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,130
+Total Notional Position: 960
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,082
+
+SOL: Position Value: 960, Unrealized PnL: -36
+
+
+### FEED COMPLETE ###
+2024-10-09 15:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,133
+Total Notional Position: 963
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,085
+
+SOL: Position Value: 963, Unrealized PnL: -33
+
+
+### FEED COMPLETE ###
+2024-10-09 16:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,141
+Total Notional Position: 972
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,093
+
+SOL: Position Value: 972, Unrealized PnL: -24
+
+
+### FEED COMPLETE ###
+2024-10-09 17:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,128
+Total Notional Position: 958
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,080
+
+SOL: Position Value: 958, Unrealized PnL: -38
+
+
+### FEED COMPLETE ###
+2024-10-09 18:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,130
+Total Notional Position: 960
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,082
+
+SOL: Position Value: 960, Unrealized PnL: -35
+
+
+### FEED COMPLETE ###
+2024-10-09 19:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,126
+Total Notional Position: 957
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,079
+
+SOL: Position Value: 957, Unrealized PnL: -39
+
+
+### FEED COMPLETE ###
+2024-10-09 20:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,127
+Total Notional Position: 957
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,079
+
+SOL: Position Value: 957, Unrealized PnL: -39
+
+
+### FEED COMPLETE ###
+2024-10-09 21:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,115
+Total Notional Position: 945
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,068
+
+SOL: Position Value: 945, Unrealized PnL: -51
+
+
+### FEED COMPLETE ###
+2024-10-09 22:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,119
+Total Notional Position: 949
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,072
+
+SOL: Position Value: 949, Unrealized PnL: -46
+
+
+### FEED COMPLETE ###
+2024-10-09 23:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,118
+Total Notional Position: 948
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,070
+
+SOL: Position Value: 948, Unrealized PnL: -48
+
+
+### FEED COMPLETE ###
+2024-10-10 00:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,116
+Total Notional Position: 946
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,069
+
+SOL: Position Value: 946, Unrealized PnL: -49
+
+
+### FEED COMPLETE ###
+2024-10-10 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,113
+Total Notional Position: 943
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,066
+
+SOL: Position Value: 943, Unrealized PnL: -52
+
+
+### FEED COMPLETE ###
+2024-10-10 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,119
+Total Notional Position: 949
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,071
+
+SOL: Position Value: 949, Unrealized PnL: -47
+
+
+### FEED COMPLETE ###
+2024-10-10 03:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,121
+Total Notional Position: 951
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,073
+
+SOL: Position Value: 951, Unrealized PnL: -45
+
+
+### FEED COMPLETE ###
+2024-10-10 04:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,121
+Total Notional Position: 952
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,074
+
+SOL: Position Value: 952, Unrealized PnL: -44
+
+
+### FEED COMPLETE ###
+2024-10-10 05:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,122
+Total Notional Position: 952
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,074
+
+SOL: Position Value: 952, Unrealized PnL: -44
+
+
+### FEED COMPLETE ###
+2024-10-10 06:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,125
+Total Notional Position: 956
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,078
+
+SOL: Position Value: 956, Unrealized PnL: -40
+
+
+### FEED COMPLETE ###
+2024-10-10 07:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,125
+Total Notional Position: 955
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,077
+
+SOL: Position Value: 955, Unrealized PnL: -41
+
+
+### FEED COMPLETE ###
+2024-10-10 08:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,121
+Total Notional Position: 951
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,074
+
+SOL: Position Value: 951, Unrealized PnL: -45
+
+
+### FEED COMPLETE ###
+2024-10-10 09:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,114
+Total Notional Position: 944
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,067
+
+SOL: Position Value: 944, Unrealized PnL: -52
+
+
+### FEED COMPLETE ###
+2024-10-10 10:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,113
+Total Notional Position: 943
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,066
+
+SOL: Position Value: 943, Unrealized PnL: -52
+
+
+### FEED COMPLETE ###
+2024-10-10 11:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,119
+Total Notional Position: 949
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,071
+
+SOL: Position Value: 949, Unrealized PnL: -47
+
+
+### FEED COMPLETE ###
+2024-10-10 12:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,126
+Total Notional Position: 956
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,078
+
+SOL: Position Value: 956, Unrealized PnL: -40
+
+
+### FEED COMPLETE ###
+2024-10-10 13:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,113
+Total Notional Position: 943
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,066
+
+SOL: Position Value: 943, Unrealized PnL: -53
+
+
+### FEED COMPLETE ###
+2024-10-10 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,113
+Total Notional Position: 943
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,066
+
+SOL: Position Value: 943, Unrealized PnL: -53
+
+
+### FEED COMPLETE ###
+2024-10-10 15:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,104
+Total Notional Position: 934
+Cross Maintenance Margin Used: 23
+Withdrawable: 1,057
+
+SOL: Position Value: 934, Unrealized PnL: -62
+
+
+### FEED COMPLETE ###
+2024-10-10 16:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,114
+Total Notional Position: 945
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,067
+
+SOL: Position Value: 945, Unrealized PnL: -51
+
+
+### FEED COMPLETE ###
+2024-10-10 17:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,111
+Total Notional Position: 941
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,064
+
+SOL: Position Value: 941, Unrealized PnL: -55
+
+
+### FEED COMPLETE ###
+2024-10-10 18:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,097
+Total Notional Position: 928
+Cross Maintenance Margin Used: 23
+Withdrawable: 1,051
+
+SOL: Position Value: 928, Unrealized PnL: -68
+
+
+### FEED COMPLETE ###
+2024-10-10 19:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,104
+Total Notional Position: 934
+Cross Maintenance Margin Used: 23
+Withdrawable: 1,057
+
+SOL: Position Value: 934, Unrealized PnL: -62
+
+
+### FEED COMPLETE ###
+2024-10-10 20:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,110
+Total Notional Position: 940
+Cross Maintenance Margin Used: 23
+Withdrawable: 1,063
+
+SOL: Position Value: 940, Unrealized PnL: -56
+
+
+### FEED COMPLETE ###
+2024-10-10 21:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,106
+Total Notional Position: 936
+Cross Maintenance Margin Used: 23
+Withdrawable: 1,059
+
+SOL: Position Value: 936, Unrealized PnL: -60
+
+
+### FEED COMPLETE ###
+2024-10-10 22:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,112
+Total Notional Position: 943
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,065
+
+SOL: Position Value: 943, Unrealized PnL: -53
+
+
+### FEED COMPLETE ###
+2024-10-10 23:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,114
+Total Notional Position: 944
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,066
+
+SOL: Position Value: 944, Unrealized PnL: -52
+
+
+### FEED COMPLETE ###
+2024-10-11 00:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,115
+Total Notional Position: 946
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,068
+
+SOL: Position Value: 946, Unrealized PnL: -50
+
+
+### FEED COMPLETE ###
+2024-10-11 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,116
+Total Notional Position: 947
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,069
+
+SOL: Position Value: 947, Unrealized PnL: -49
+
+
+### FEED COMPLETE ###
+2024-10-11 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,123
+Total Notional Position: 954
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,076
+
+SOL: Position Value: 954, Unrealized PnL: -42
+
+
+### FEED COMPLETE ###
+2024-10-11 03:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,131
+Total Notional Position: 961
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,083
+
+SOL: Position Value: 961, Unrealized PnL: -35
+
+
+### FEED COMPLETE ###
+2024-10-11 04:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,127
+Total Notional Position: 958
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,079
+
+SOL: Position Value: 958, Unrealized PnL: -38
+
+
+### FEED COMPLETE ###
+2024-10-11 05:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,131
+Total Notional Position: 962
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,083
+
+SOL: Position Value: 962, Unrealized PnL: -34
+
+
+### FEED COMPLETE ###
+2024-10-11 06:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,129
+Total Notional Position: 959
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,081
+
+SOL: Position Value: 959, Unrealized PnL: -36
+
+
+### FEED COMPLETE ###
+2024-10-11 07:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,132
+Total Notional Position: 963
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,084
+
+SOL: Position Value: 963, Unrealized PnL: -33
+
+
+### FEED COMPLETE ###
+2024-10-11 08:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,130
+Total Notional Position: 961
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,082
+
+SOL: Position Value: 961, Unrealized PnL: -35
+
+
+### FEED COMPLETE ###
+2024-10-11 09:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,132
+Total Notional Position: 962
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,084
+
+SOL: Position Value: 962, Unrealized PnL: -33
+
+
+### FEED COMPLETE ###
+2024-10-11 10:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,137
+Total Notional Position: 967
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,088
+
+SOL: Position Value: 967, Unrealized PnL: -29
+
+
+### FEED COMPLETE ###
+2024-10-11 11:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,134
+Total Notional Position: 965
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,086
+
+SOL: Position Value: 965, Unrealized PnL: -31
+
+
+### FEED COMPLETE ###
+2024-10-11 12:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,135
+Total Notional Position: 965
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,087
+
+SOL: Position Value: 965, Unrealized PnL: -30
+
+
+### FEED COMPLETE ###
+2024-10-11 13:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,141
+Total Notional Position: 972
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,092
+
+SOL: Position Value: 972, Unrealized PnL: -24
+
+
+### FEED COMPLETE ###
+2024-10-11 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,147
+Total Notional Position: 978
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,098
+
+SOL: Position Value: 978, Unrealized PnL: -18
+
+
+### FEED COMPLETE ###
+2024-10-11 15:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,149
+Total Notional Position: 979
+Cross Maintenance Margin Used: 24
+Withdrawable: 1,100
+
+SOL: Position Value: 979, Unrealized PnL: -17
+
+
+### FEED COMPLETE ###
+2024-10-11 16:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,154
+Total Notional Position: 985
+Cross Maintenance Margin Used: 25
+Withdrawable: 1,105
+
+SOL: Position Value: 985, Unrealized PnL: -11
+
+
+### FEED COMPLETE ###
+2024-10-11 17:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,156
+Total Notional Position: 986
+Cross Maintenance Margin Used: 25
+Withdrawable: 1,106
+
+SOL: Position Value: 986, Unrealized PnL: -10
+
+
+### FEED COMPLETE ###
+2024-10-11 18:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,173
+Total Notional Position: 2,005
+Cross Maintenance Margin Used: 126
+Withdrawable: 921
+
+SOL: Position Value: 993, Unrealized PnL: -3
+WIF: Position Value: 1,012, Unrealized PnL: 12
+
+
+### FEED COMPLETE ###
+2024-10-11 19:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,157
+Total Notional Position: 1,989
+Cross Maintenance Margin Used: 125
+Withdrawable: 908
+
+SOL: Position Value: 991, Unrealized PnL: -5
+WIF: Position Value: 998, Unrealized PnL: -3
+
+
+### FEED COMPLETE ###
+2024-10-11 20:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,161
+Total Notional Position: 1,993
+Cross Maintenance Margin Used: 125
+Withdrawable: 911
+
+SOL: Position Value: 991, Unrealized PnL: -5
+WIF: Position Value: 1,003, Unrealized PnL: 2
+
+
+### FEED COMPLETE ###
+2024-10-11 21:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,161
+Total Notional Position: 1,994
+Cross Maintenance Margin Used: 125
+Withdrawable: 912
+
+SOL: Position Value: 994, Unrealized PnL: -2
+WIF: Position Value: 1,000, Unrealized PnL: -1
+
+
+### FEED COMPLETE ###
+2024-10-11 22:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,171
+Total Notional Position: 2,003
+Cross Maintenance Margin Used: 126
+Withdrawable: 919
+
+SOL: Position Value: 994, Unrealized PnL: -2
+WIF: Position Value: 1,010, Unrealized PnL: 9
+
+
+### FEED COMPLETE ###
+2024-10-11 23:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,158
+Total Notional Position: 1,991
+Cross Maintenance Margin Used: 125
+Withdrawable: 909
+
+SOL: Position Value: 991, Unrealized PnL: -5
+WIF: Position Value: 1,000, Unrealized PnL: -1
+
+
+### FEED COMPLETE ###
+2024-10-12 00:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,162
+Total Notional Position: 1,995
+Cross Maintenance Margin Used: 125
+Withdrawable: 912
+
+SOL: Position Value: 990, Unrealized PnL: -5
+WIF: Position Value: 1,004, Unrealized PnL: 3
+
+
+### FEED COMPLETE ###
+2024-10-12 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,181
+Total Notional Position: 2,014
+Cross Maintenance Margin Used: 127
+Withdrawable: 928
+
+SOL: Position Value: 996, Unrealized PnL: 0
+WIF: Position Value: 1,018, Unrealized PnL: 17
+
+
+### FEED COMPLETE ###
+2024-10-12 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,158
+Total Notional Position: 2,992
+Cross Maintenance Margin Used: 151
+Withdrawable: 857
+
+SOL: Position Value: 992, Unrealized PnL: -4
+kPEPE: Position Value: 988, Unrealized PnL: -13
+WIF: Position Value: 1,012, Unrealized PnL: 11
+
+
+### FEED COMPLETE ###
+2024-10-12 03:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,121
+Total Notional Position: 2,955
+Cross Maintenance Margin Used: 148
+Withdrawable: 824
+
+SOL: Position Value: 987, Unrealized PnL: -9
+kPEPE: Position Value: 975, Unrealized PnL: -26
+WIF: Position Value: 994, Unrealized PnL: -7
+
+
+### FEED COMPLETE ###
+2024-10-12 04:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'INJUSDT', 'SOLUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,117
+Total Notional Position: 2,951
+Cross Maintenance Margin Used: 148
+Withdrawable: 821
+
+SOL: Position Value: 988, Unrealized PnL: -8
+kPEPE: Position Value: 975, Unrealized PnL: -26
+WIF: Position Value: 988, Unrealized PnL: -13
+
+
+### FEED COMPLETE ###
+2024-10-12 05:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,113
+Total Notional Position: 2,947
+Cross Maintenance Margin Used: 147
+Withdrawable: 818
+
+SOL: Position Value: 990, Unrealized PnL: -6
+kPEPE: Position Value: 975, Unrealized PnL: -26
+WIF: Position Value: 982, Unrealized PnL: -19
+
+
+### FEED COMPLETE ###
+2024-10-12 06:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,120
+Total Notional Position: 2,955
+Cross Maintenance Margin Used: 148
+Withdrawable: 825
+
+SOL: Position Value: 993, Unrealized PnL: -3
+kPEPE: Position Value: 977, Unrealized PnL: -24
+WIF: Position Value: 984, Unrealized PnL: -17
+
+
+### FEED COMPLETE ###
+2024-10-12 07:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,124
+Total Notional Position: 2,958
+Cross Maintenance Margin Used: 148
+Withdrawable: 828
+
+SOL: Position Value: 992, Unrealized PnL: -4
+kPEPE: Position Value: 981, Unrealized PnL: -20
+WIF: Position Value: 986, Unrealized PnL: -15
+
+
+### FEED COMPLETE ###
+2024-10-12 08:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,122
+Total Notional Position: 2,957
+Cross Maintenance Margin Used: 148
+Withdrawable: 827
+
+SOL: Position Value: 990, Unrealized PnL: -6
+kPEPE: Position Value: 984, Unrealized PnL: -17
+WIF: Position Value: 982, Unrealized PnL: -19
+
+
+### FEED COMPLETE ###
+2024-10-12 09:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,134
+Total Notional Position: 3,970
+Cross Maintenance Margin Used: 199
+Withdrawable: 737
+
+SOL: Position Value: 991, Unrealized PnL: -5
+kPEPE: Position Value: 986, Unrealized PnL: -15
+kBONK: Position Value: 1,002, Unrealized PnL: 1
+WIF: Position Value: 991, Unrealized PnL: -10
+
+
+### FEED COMPLETE ###
+2024-10-12 10:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,134
+Total Notional Position: 3,970
+Cross Maintenance Margin Used: 199
+Withdrawable: 737
+
+SOL: Position Value: 992, Unrealized PnL: -4
+kPEPE: Position Value: 990, Unrealized PnL: -11
+kBONK: Position Value: 996, Unrealized PnL: -5
+WIF: Position Value: 992, Unrealized PnL: -9
+
+
+### FEED COMPLETE ###
+2024-10-12 11:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,170
+Total Notional Position: 4,006
+Cross Maintenance Margin Used: 200
+Withdrawable: 769
+
+SOL: Position Value: 997, Unrealized PnL: 2
+kPEPE: Position Value: 999, Unrealized PnL: -2
+kBONK: Position Value: 1,012, Unrealized PnL: 11
+WIF: Position Value: 998, Unrealized PnL: -3
+
+
+### FEED COMPLETE ###
+2024-10-12 12:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,157
+Total Notional Position: 3,994
+Cross Maintenance Margin Used: 199
+Withdrawable: 758
+
+SOL: Position Value: 995, Unrealized PnL: -1
+kPEPE: Position Value: 1,000, Unrealized PnL: -1
+kBONK: Position Value: 1,007, Unrealized PnL: 6
+WIF: Position Value: 993, Unrealized PnL: -8
+
+
+### FEED COMPLETE ###
+2024-10-12 13:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,181
+Total Notional Position: 4,017
+Cross Maintenance Margin Used: 201
+Withdrawable: 779
+
+SOL: Position Value: 1,000, Unrealized PnL: 4
+kPEPE: Position Value: 1,007, Unrealized PnL: 6
+kBONK: Position Value: 1,011, Unrealized PnL: 10
+WIF: Position Value: 1,000, Unrealized PnL: -1
+
+
+### FEED COMPLETE ###
+2024-10-12 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,155
+Total Notional Position: 3,992
+Cross Maintenance Margin Used: 199
+Withdrawable: 756
+
+SOL: Position Value: 996, Unrealized PnL: 0
+kPEPE: Position Value: 999, Unrealized PnL: -2
+kBONK: Position Value: 1,002, Unrealized PnL: 1
+WIF: Position Value: 995, Unrealized PnL: -6
+
+
+### FEED COMPLETE ###
+2024-10-12 15:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,181
+Total Notional Position: 4,018
+Cross Maintenance Margin Used: 201
+Withdrawable: 778
+
+SOL: Position Value: 997, Unrealized PnL: 1
+kPEPE: Position Value: 1,008, Unrealized PnL: 7
+kBONK: Position Value: 1,005, Unrealized PnL: 4
+WIF: Position Value: 1,008, Unrealized PnL: 7
+
+
+### FEED COMPLETE ###
+2024-10-12 16:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,160
+Total Notional Position: 3,997
+Cross Maintenance Margin Used: 200
+Withdrawable: 760
+
+SOL: Position Value: 995, Unrealized PnL: -1
+kPEPE: Position Value: 1,000, Unrealized PnL: -1
+kBONK: Position Value: 1,005, Unrealized PnL: 4
+WIF: Position Value: 998, Unrealized PnL: -3
+
+
+### FEED COMPLETE ###
+2024-10-12 17:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,138
+Total Notional Position: 3,975
+Cross Maintenance Margin Used: 199
+Withdrawable: 740
+
+SOL: Position Value: 996, Unrealized PnL: 1
+kPEPE: Position Value: 990, Unrealized PnL: -11
+kBONK: Position Value: 997, Unrealized PnL: -4
+WIF: Position Value: 992, Unrealized PnL: -9
+
+
+### FEED COMPLETE ###
+2024-10-12 18:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,133
+Total Notional Position: 3,970
+Cross Maintenance Margin Used: 198
+Withdrawable: 736
+
+SOL: Position Value: 1,000, Unrealized PnL: 4
+kPEPE: Position Value: 990, Unrealized PnL: -11
+kBONK: Position Value: 990, Unrealized PnL: -11
+WIF: Position Value: 991, Unrealized PnL: -10
+
+
+### FEED COMPLETE ###
+2024-10-12 19:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,119
+Total Notional Position: 3,957
+Cross Maintenance Margin Used: 198
+Withdrawable: 723
+
+SOL: Position Value: 997, Unrealized PnL: 1
+kPEPE: Position Value: 984, Unrealized PnL: -17
+kBONK: Position Value: 983, Unrealized PnL: -18
+WIF: Position Value: 993, Unrealized PnL: -8
+
+
+### FEED COMPLETE ###
+2024-10-12 20:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,128
+Total Notional Position: 3,966
+Cross Maintenance Margin Used: 198
+Withdrawable: 732
+
+SOL: Position Value: 999, Unrealized PnL: 3
+kPEPE: Position Value: 986, Unrealized PnL: -15
+kBONK: Position Value: 987, Unrealized PnL: -14
+WIF: Position Value: 994, Unrealized PnL: -7
+
+
+### FEED COMPLETE ###
+2024-10-12 21:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,135
+Total Notional Position: 3,973
+Cross Maintenance Margin Used: 199
+Withdrawable: 738
+
+SOL: Position Value: 999, Unrealized PnL: 3
+kPEPE: Position Value: 988, Unrealized PnL: -13
+kBONK: Position Value: 989, Unrealized PnL: -12
+WIF: Position Value: 996, Unrealized PnL: -5
+
+
+### FEED COMPLETE ###
+2024-10-12 22:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,137
+Total Notional Position: 3,975
+Cross Maintenance Margin Used: 199
+Withdrawable: 740
+
+SOL: Position Value: 997, Unrealized PnL: 1
+kPEPE: Position Value: 992, Unrealized PnL: -9
+kBONK: Position Value: 994, Unrealized PnL: -7
+WIF: Position Value: 992, Unrealized PnL: -9
+
+
+### FEED COMPLETE ###
+2024-10-12 23:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,144
+Total Notional Position: 3,982
+Cross Maintenance Margin Used: 199
+Withdrawable: 747
+
+SOL: Position Value: 1,001, Unrealized PnL: 5
+kPEPE: Position Value: 998, Unrealized PnL: -3
+kBONK: Position Value: 995, Unrealized PnL: -6
+WIF: Position Value: 988, Unrealized PnL: -13
+
+
+### FEED COMPLETE ###
+2024-10-13 00:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,108
+Total Notional Position: 3,946
+Cross Maintenance Margin Used: 196
+Withdrawable: 716
+
+SOL: Position Value: 997, Unrealized PnL: 1
+kPEPE: Position Value: 987, Unrealized PnL: -14
+kBONK: Position Value: 991, Unrealized PnL: -10
+WIF: Position Value: 972, Unrealized PnL: -29
+
+
+### FEED COMPLETE ###
+2024-10-13 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,105
+Total Notional Position: 3,943
+Cross Maintenance Margin Used: 197
+Withdrawable: 710
+
+SOL: Position Value: 997, Unrealized PnL: 1
+kPEPE: Position Value: 977, Unrealized PnL: -24
+kBONK: Position Value: 981, Unrealized PnL: -20
+WIF: Position Value: 988, Unrealized PnL: -13
+
+
+### FEED COMPLETE ###
+2024-10-13 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,108
+Total Notional Position: 3,946
+Cross Maintenance Margin Used: 198
+Withdrawable: 711
+
+SOL: Position Value: 994, Unrealized PnL: -2
+kPEPE: Position Value: 974, Unrealized PnL: -27
+kBONK: Position Value: 977, Unrealized PnL: -23
+WIF: Position Value: 1,000, Unrealized PnL: -1
+
+
+### FEED COMPLETE ###
+2024-10-13 03:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,127
+Total Notional Position: 3,965
+Cross Maintenance Margin Used: 199
+Withdrawable: 728
+
+SOL: Position Value: 994, Unrealized PnL: -2
+kPEPE: Position Value: 979, Unrealized PnL: -22
+kBONK: Position Value: 982, Unrealized PnL: -19
+WIF: Position Value: 1,011, Unrealized PnL: 10
+
+
+### FEED COMPLETE ###
+2024-10-13 04:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,090
+Total Notional Position: 3,929
+Cross Maintenance Margin Used: 197
+Withdrawable: 696
+
+SOL: Position Value: 989, Unrealized PnL: -7
+kPEPE: Position Value: 973, Unrealized PnL: -28
+kBONK: Position Value: 969, Unrealized PnL: -32
+WIF: Position Value: 997, Unrealized PnL: -4
+
+
+### FEED COMPLETE ###
+2024-10-13 05:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,110
+Total Notional Position: 3,949
+Cross Maintenance Margin Used: 198
+Withdrawable: 714
+
+SOL: Position Value: 993, Unrealized PnL: -3
+kPEPE: Position Value: 977, Unrealized PnL: -24
+kBONK: Position Value: 974, Unrealized PnL: -27
+WIF: Position Value: 1,004, Unrealized PnL: 3
+
+
+### FEED COMPLETE ###
+2024-10-13 06:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,137
+Total Notional Position: 3,976
+Cross Maintenance Margin Used: 200
+Withdrawable: 737
+
+SOL: Position Value: 998, Unrealized PnL: 2
+kPEPE: Position Value: 983, Unrealized PnL: -18
+kBONK: Position Value: 980, Unrealized PnL: -21
+WIF: Position Value: 1,015, Unrealized PnL: 14
+
+
+### FEED COMPLETE ###
+2024-10-13 07:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,123
+Total Notional Position: 3,961
+Cross Maintenance Margin Used: 199
+Withdrawable: 725
+
+SOL: Position Value: 997, Unrealized PnL: 1
+kPEPE: Position Value: 979, Unrealized PnL: -22
+kBONK: Position Value: 979, Unrealized PnL: -22
+WIF: Position Value: 1,006, Unrealized PnL: 5
+
+
+### FEED COMPLETE ###
+2024-10-13 08:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,133
+Total Notional Position: 3,972
+Cross Maintenance Margin Used: 200
+Withdrawable: 733
+
+SOL: Position Value: 997, Unrealized PnL: 1
+kPEPE: Position Value: 978, Unrealized PnL: -23
+kBONK: Position Value: 978, Unrealized PnL: -23
+WIF: Position Value: 1,019, Unrealized PnL: 18
+
+
+### FEED COMPLETE ###
+2024-10-13 09:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,150
+Total Notional Position: 3,989
+Cross Maintenance Margin Used: 202
+Withdrawable: 747
+
+SOL: Position Value: 998, Unrealized PnL: 2
+kPEPE: Position Value: 979, Unrealized PnL: -22
+kBONK: Position Value: 981, Unrealized PnL: -20
+WIF: Position Value: 1,031, Unrealized PnL: 30
+
+
+### FEED COMPLETE ###
+2024-10-13 10:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,153
+Total Notional Position: 3,991
+Cross Maintenance Margin Used: 201
+Withdrawable: 750
+
+SOL: Position Value: 1,006, Unrealized PnL: 11
+kPEPE: Position Value: 979, Unrealized PnL: -22
+kBONK: Position Value: 982, Unrealized PnL: -19
+WIF: Position Value: 1,024, Unrealized PnL: 23
+
+
+### FEED COMPLETE ###
+2024-10-13 11:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,136
+Total Notional Position: 3,975
+Cross Maintenance Margin Used: 200
+Withdrawable: 736
+
+SOL: Position Value: 1,002, Unrealized PnL: 6
+kPEPE: Position Value: 978, Unrealized PnL: -23
+kBONK: Position Value: 983, Unrealized PnL: -18
+WIF: Position Value: 1,012, Unrealized PnL: 11
+
+
+### FEED COMPLETE ###
+2024-10-13 12:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,073
+Total Notional Position: 3,912
+Cross Maintenance Margin Used: 196
+Withdrawable: 681
+
+SOL: Position Value: 999, Unrealized PnL: 3
+kPEPE: Position Value: 964, Unrealized PnL: -37
+kBONK: Position Value: 962, Unrealized PnL: -39
+WIF: Position Value: 987, Unrealized PnL: -14
+
+
+### FEED COMPLETE ###
+2024-10-13 13:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,081
+Total Notional Position: 3,920
+Cross Maintenance Margin Used: 196
+Withdrawable: 688
+
+SOL: Position Value: 1,002, Unrealized PnL: 6
+kPEPE: Position Value: 967, Unrealized PnL: -34
+kBONK: Position Value: 962, Unrealized PnL: -39
+WIF: Position Value: 989, Unrealized PnL: -12
+
+
+### FEED COMPLETE ###
+2024-10-13 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,083
+Total Notional Position: 3,922
+Cross Maintenance Margin Used: 196
+Withdrawable: 690
+
+SOL: Position Value: 1,001, Unrealized PnL: 5
+kPEPE: Position Value: 968, Unrealized PnL: -33
+kBONK: Position Value: 966, Unrealized PnL: -35
+WIF: Position Value: 988, Unrealized PnL: -13
+
+
+### FEED COMPLETE ###
+2024-10-13 15:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,033
+Total Notional Position: 3,872
+Cross Maintenance Margin Used: 194
+Withdrawable: 646
+
+SOL: Position Value: 991, Unrealized PnL: -5
+kPEPE: Position Value: 953, Unrealized PnL: -48
+kBONK: Position Value: 952, Unrealized PnL: -49
+WIF: Position Value: 977, Unrealized PnL: -24
+
+
+### FEED COMPLETE ###
+2024-10-13 16:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,007
+Total Notional Position: 3,847
+Cross Maintenance Margin Used: 193
+Withdrawable: 622
+
+SOL: Position Value: 988, Unrealized PnL: -8
+kPEPE: Position Value: 940, Unrealized PnL: -61
+kBONK: Position Value: 944, Unrealized PnL: -57
+WIF: Position Value: 975, Unrealized PnL: -26
+
+
+### FEED COMPLETE ###
+2024-10-13 17:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,052
+Total Notional Position: 3,891
+Cross Maintenance Margin Used: 195
+Withdrawable: 661
+
+SOL: Position Value: 993, Unrealized PnL: -3
+kPEPE: Position Value: 953, Unrealized PnL: -48
+kBONK: Position Value: 957, Unrealized PnL: -44
+WIF: Position Value: 988, Unrealized PnL: -12
+
+
+### FEED COMPLETE ###
+2024-10-13 18:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,018
+Total Notional Position: 3,857
+Cross Maintenance Margin Used: 193
+Withdrawable: 632
+
+SOL: Position Value: 990, Unrealized PnL: -6
+kPEPE: Position Value: 945, Unrealized PnL: -56
+kBONK: Position Value: 952, Unrealized PnL: -49
+WIF: Position Value: 970, Unrealized PnL: -31
+
+
+### FEED COMPLETE ###
+2024-10-13 19:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 978
+Total Notional Position: 3,817
+Cross Maintenance Margin Used: 190
+Withdrawable: 598
+
+SOL: Position Value: 990, Unrealized PnL: -6
+kPEPE: Position Value: 937, Unrealized PnL: -64
+kBONK: Position Value: 942, Unrealized PnL: -59
+WIF: Position Value: 948, Unrealized PnL: -53
+
+
+### FEED COMPLETE ###
+2024-10-13 20:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 995
+Total Notional Position: 3,835
+Cross Maintenance Margin Used: 191
+Withdrawable: 614
+
+SOL: Position Value: 992, Unrealized PnL: -4
+kPEPE: Position Value: 945, Unrealized PnL: -56
+kBONK: Position Value: 948, Unrealized PnL: -53
+WIF: Position Value: 950, Unrealized PnL: -51
+
+
+### FEED COMPLETE ###
+2024-10-13 21:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,019
+Total Notional Position: 3,858
+Cross Maintenance Margin Used: 192
+Withdrawable: 634
+
+SOL: Position Value: 995, Unrealized PnL: -1
+kPEPE: Position Value: 950, Unrealized PnL: -51
+kBONK: Position Value: 951, Unrealized PnL: -50
+WIF: Position Value: 961, Unrealized PnL: -40
+
+
+### FEED COMPLETE ###
+2024-10-13 22:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,073
+Total Notional Position: 3,912
+Cross Maintenance Margin Used: 195
+Withdrawable: 682
+
+SOL: Position Value: 1,009, Unrealized PnL: 13
+kPEPE: Position Value: 964, Unrealized PnL: -37
+kBONK: Position Value: 958, Unrealized PnL: -42
+WIF: Position Value: 981, Unrealized PnL: -20
+
+
+### FEED COMPLETE ###
+2024-10-13 23:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,041
+Total Notional Position: 3,881
+Cross Maintenance Margin Used: 193
+Withdrawable: 655
+
+SOL: Position Value: 1,004, Unrealized PnL: 9
+kPEPE: Position Value: 960, Unrealized PnL: -41
+kBONK: Position Value: 956, Unrealized PnL: -45
+WIF: Position Value: 961, Unrealized PnL: -40
+
+
+### FEED COMPLETE ###
+2024-10-14 00:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,060
+Total Notional Position: 3,900
+Cross Maintenance Margin Used: 194
+Withdrawable: 672
+
+SOL: Position Value: 1,005, Unrealized PnL: 9
+kPEPE: Position Value: 967, Unrealized PnL: -34
+kBONK: Position Value: 959, Unrealized PnL: -42
+WIF: Position Value: 969, Unrealized PnL: -32
+
+
+### FEED COMPLETE ###
+2024-10-14 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,028
+Total Notional Position: 3,868
+Cross Maintenance Margin Used: 192
+Withdrawable: 643
+
+SOL: Position Value: 1,003, Unrealized PnL: 7
+kPEPE: Position Value: 957, Unrealized PnL: -44
+kBONK: Position Value: 946, Unrealized PnL: -55
+WIF: Position Value: 962, Unrealized PnL: -39
+
+
+### FEED COMPLETE ###
+2024-10-14 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,021
+Total Notional Position: 3,861
+Cross Maintenance Margin Used: 192
+Withdrawable: 637
+
+SOL: Position Value: 1,003, Unrealized PnL: 7
+kPEPE: Position Value: 957, Unrealized PnL: -44
+kBONK: Position Value: 945, Unrealized PnL: -56
+WIF: Position Value: 956, Unrealized PnL: -45
+
+
+### FEED COMPLETE ###
+2024-10-14 03:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,040
+Total Notional Position: 3,879
+Cross Maintenance Margin Used: 193
+Withdrawable: 654
+
+SOL: Position Value: 1,011, Unrealized PnL: 15
+kPEPE: Position Value: 960, Unrealized PnL: -41
+kBONK: Position Value: 949, Unrealized PnL: -52
+WIF: Position Value: 959, Unrealized PnL: -42
+
+
+### FEED COMPLETE ###
+2024-10-14 04:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,253
+Total Notional Position: 4,093
+Cross Maintenance Margin Used: 205
+Withdrawable: 844
+
+SOL: Position Value: 1,042, Unrealized PnL: 46
+kPEPE: Position Value: 1,012, Unrealized PnL: 11
+kBONK: Position Value: 1,010, Unrealized PnL: 9
+WIF: Position Value: 1,028, Unrealized PnL: 27
+
+
+### FEED COMPLETE ###
+2024-10-14 05:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,267
+Total Notional Position: 4,107
+Cross Maintenance Margin Used: 205
+Withdrawable: 856
+
+SOL: Position Value: 1,036, Unrealized PnL: 41
+kPEPE: Position Value: 1,035, Unrealized PnL: 34
+kBONK: Position Value: 1,003, Unrealized PnL: 2
+WIF: Position Value: 1,033, Unrealized PnL: 32
+
+
+### FEED COMPLETE ###
+2024-10-14 06:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,216
+Total Notional Position: 4,057
+Cross Maintenance Margin Used: 203
+Withdrawable: 811
+
+SOL: Position Value: 1,030, Unrealized PnL: 34
+kPEPE: Position Value: 1,017, Unrealized PnL: 16
+kBONK: Position Value: 990, Unrealized PnL: -11
+WIF: Position Value: 1,020, Unrealized PnL: 19
+
+
+### FEED COMPLETE ###
+2024-10-14 07:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,221
+Total Notional Position: 4,061
+Cross Maintenance Margin Used: 202
+Withdrawable: 816
+
+SOL: Position Value: 1,033, Unrealized PnL: 37
+kPEPE: Position Value: 1,021, Unrealized PnL: 20
+kBONK: Position Value: 993, Unrealized PnL: -8
+WIF: Position Value: 1,014, Unrealized PnL: 13
+
+
+### FEED COMPLETE ###
+2024-10-14 08:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,277
+Total Notional Position: 4,117
+Cross Maintenance Margin Used: 205
+Withdrawable: 866
+
+SOL: Position Value: 1,043, Unrealized PnL: 47
+kPEPE: Position Value: 1,035, Unrealized PnL: 34
+kBONK: Position Value: 1,011, Unrealized PnL: 11
+WIF: Position Value: 1,028, Unrealized PnL: 27
+
+
+### FEED COMPLETE ###
+2024-10-14 09:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,246
+Total Notional Position: 4,086
+Cross Maintenance Margin Used: 203
+Withdrawable: 839
+
+SOL: Position Value: 1,037, Unrealized PnL: 41
+kPEPE: Position Value: 1,030, Unrealized PnL: 29
+kBONK: Position Value: 1,002, Unrealized PnL: 1
+WIF: Position Value: 1,017, Unrealized PnL: 16
+
+
+### FEED COMPLETE ###
+2024-10-14 10:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,293
+Total Notional Position: 4,133
+Cross Maintenance Margin Used: 206
+Withdrawable: 880
+
+SOL: Position Value: 1,041, Unrealized PnL: 45
+kPEPE: Position Value: 1,045, Unrealized PnL: 44
+kBONK: Position Value: 1,010, Unrealized PnL: 9
+WIF: Position Value: 1,038, Unrealized PnL: 37
+
+
+### FEED COMPLETE ###
+2024-10-14 11:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,287
+Total Notional Position: 4,127
+Cross Maintenance Margin Used: 206
+Withdrawable: 875
+
+SOL: Position Value: 1,041, Unrealized PnL: 45
+kPEPE: Position Value: 1,043, Unrealized PnL: 42
+kBONK: Position Value: 1,009, Unrealized PnL: 8
+WIF: Position Value: 1,034, Unrealized PnL: 33
+
+
+### FEED COMPLETE ###
+2024-10-14 12:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,305
+Total Notional Position: 4,146
+Cross Maintenance Margin Used: 207
+Withdrawable: 891
+
+SOL: Position Value: 1,043, Unrealized PnL: 47
+kPEPE: Position Value: 1,046, Unrealized PnL: 45
+kBONK: Position Value: 1,018, Unrealized PnL: 17
+WIF: Position Value: 1,039, Unrealized PnL: 38
+
+
+### FEED COMPLETE ###
+2024-10-14 13:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,279
+Total Notional Position: 4,119
+Cross Maintenance Margin Used: 206
+Withdrawable: 867
+
+SOL: Position Value: 1,041, Unrealized PnL: 45
+kPEPE: Position Value: 1,035, Unrealized PnL: 34
+kBONK: Position Value: 1,010, Unrealized PnL: 9
+WIF: Position Value: 1,034, Unrealized PnL: 33
+
+
+### FEED COMPLETE ###
+2024-10-14 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,338
+Total Notional Position: 4,179
+Cross Maintenance Margin Used: 209
+Withdrawable: 921
+
+SOL: Position Value: 1,049, Unrealized PnL: 53
+kPEPE: Position Value: 1,052, Unrealized PnL: 51
+kBONK: Position Value: 1,029, Unrealized PnL: 28
+WIF: Position Value: 1,049, Unrealized PnL: 48
+
+
+### FEED COMPLETE ###
+2024-10-14 15:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,383
+Total Notional Position: 4,224
+Cross Maintenance Margin Used: 211
+Withdrawable: 960
+
+SOL: Position Value: 1,057, Unrealized PnL: 61
+kPEPE: Position Value: 1,061, Unrealized PnL: 60
+kBONK: Position Value: 1,040, Unrealized PnL: 40
+WIF: Position Value: 1,065, Unrealized PnL: 64
+
+
+### FEED COMPLETE ###
+2024-10-14 16:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,418
+Total Notional Position: 4,259
+Cross Maintenance Margin Used: 213
+Withdrawable: 991
+
+SOL: Position Value: 1,066, Unrealized PnL: 70
+kPEPE: Position Value: 1,069, Unrealized PnL: 68
+kBONK: Position Value: 1,046, Unrealized PnL: 45
+WIF: Position Value: 1,078, Unrealized PnL: 77
+
+
+### FEED COMPLETE ###
+2024-10-14 17:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,332
+Total Notional Position: 4,174
+Cross Maintenance Margin Used: 208
+Withdrawable: 916
+
+SOL: Position Value: 1,055, Unrealized PnL: 59
+kPEPE: Position Value: 1,049, Unrealized PnL: 48
+kBONK: Position Value: 1,026, Unrealized PnL: 25
+WIF: Position Value: 1,044, Unrealized PnL: 43
+
+
+### FEED COMPLETE ###
+2024-10-14 18:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,331
+Total Notional Position: 4,173
+Cross Maintenance Margin Used: 207
+Withdrawable: 916
+
+SOL: Position Value: 1,058, Unrealized PnL: 62
+kPEPE: Position Value: 1,049, Unrealized PnL: 48
+kBONK: Position Value: 1,036, Unrealized PnL: 35
+WIF: Position Value: 1,029, Unrealized PnL: 28
+
+
+### FEED COMPLETE ###
+2024-10-14 19:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,344
+Total Notional Position: 4,185
+Cross Maintenance Margin Used: 208
+Withdrawable: 928
+
+SOL: Position Value: 1,061, Unrealized PnL: 65
+kPEPE: Position Value: 1,054, Unrealized PnL: 53
+kBONK: Position Value: 1,041, Unrealized PnL: 40
+WIF: Position Value: 1,030, Unrealized PnL: 29
+
+
+### FEED COMPLETE ###
+2024-10-14 20:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,345
+Total Notional Position: 4,186
+Cross Maintenance Margin Used: 208
+Withdrawable: 929
+
+SOL: Position Value: 1,058, Unrealized PnL: 62
+kPEPE: Position Value: 1,051, Unrealized PnL: 50
+kBONK: Position Value: 1,050, Unrealized PnL: 49
+WIF: Position Value: 1,028, Unrealized PnL: 27
+
+
+### FEED COMPLETE ###
+2024-10-14 21:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,358
+Total Notional Position: 4,200
+Cross Maintenance Margin Used: 208
+Withdrawable: 942
+
+SOL: Position Value: 1,063, Unrealized PnL: 67
+kPEPE: Position Value: 1,055, Unrealized PnL: 54
+kBONK: Position Value: 1,057, Unrealized PnL: 56
+WIF: Position Value: 1,026, Unrealized PnL: 25
+
+
+### FEED COMPLETE ###
+2024-10-14 22:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,333
+Total Notional Position: 4,175
+Cross Maintenance Margin Used: 207
+Withdrawable: 920
+
+SOL: Position Value: 1,062, Unrealized PnL: 66
+kPEPE: Position Value: 1,054, Unrealized PnL: 53
+kBONK: Position Value: 1,042, Unrealized PnL: 41
+WIF: Position Value: 1,017, Unrealized PnL: 16
+
+
+### FEED COMPLETE ###
+2024-10-14 23:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,430
+Total Notional Position: 4,271
+Cross Maintenance Margin Used: 211
+Withdrawable: 1,007
+
+SOL: Position Value: 1,073, Unrealized PnL: 77
+kPEPE: Position Value: 1,099, Unrealized PnL: 98
+kBONK: Position Value: 1,062, Unrealized PnL: 61
+WIF: Position Value: 1,038, Unrealized PnL: 37
+
+
+### FEED COMPLETE ###
+2024-10-15 00:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,394
+Total Notional Position: 4,235
+Cross Maintenance Margin Used: 209
+Withdrawable: 975
+
+SOL: Position Value: 1,070, Unrealized PnL: 74
+kPEPE: Position Value: 1,083, Unrealized PnL: 82
+kBONK: Position Value: 1,056, Unrealized PnL: 55
+WIF: Position Value: 1,027, Unrealized PnL: 26
+
+
+### FEED COMPLETE ###
+2024-10-15 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,405
+Total Notional Position: 4,247
+Cross Maintenance Margin Used: 210
+Withdrawable: 986
+
+SOL: Position Value: 1,071, Unrealized PnL: 75
+kPEPE: Position Value: 1,088, Unrealized PnL: 87
+kBONK: Position Value: 1,066, Unrealized PnL: 65
+WIF: Position Value: 1,022, Unrealized PnL: 21
+
+
+### FEED COMPLETE ###
+2024-10-15 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,388
+Total Notional Position: 4,230
+Cross Maintenance Margin Used: 209
+Withdrawable: 970
+
+SOL: Position Value: 1,069, Unrealized PnL: 73
+kPEPE: Position Value: 1,082, Unrealized PnL: 81
+kBONK: Position Value: 1,060, Unrealized PnL: 60
+WIF: Position Value: 1,019, Unrealized PnL: 18
+
+
+### FEED COMPLETE ###
+2024-10-15 03:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,398
+Total Notional Position: 4,240
+Cross Maintenance Margin Used: 209
+Withdrawable: 979
+
+SOL: Position Value: 1,071, Unrealized PnL: 75
+kPEPE: Position Value: 1,079, Unrealized PnL: 78
+kBONK: Position Value: 1,070, Unrealized PnL: 69
+WIF: Position Value: 1,020, Unrealized PnL: 19
+
+
+### FEED COMPLETE ###
+2024-10-15 04:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,344
+Total Notional Position: 4,187
+Cross Maintenance Margin Used: 206
+Withdrawable: 932
+
+SOL: Position Value: 1,060, Unrealized PnL: 64
+kPEPE: Position Value: 1,069, Unrealized PnL: 68
+kBONK: Position Value: 1,053, Unrealized PnL: 52
+WIF: Position Value: 1,006, Unrealized PnL: 5
+
+
+### FEED COMPLETE ###
+2024-10-15 05:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,354
+Total Notional Position: 4,197
+Cross Maintenance Margin Used: 207
+Withdrawable: 941
+
+SOL: Position Value: 1,061, Unrealized PnL: 65
+kPEPE: Position Value: 1,077, Unrealized PnL: 76
+kBONK: Position Value: 1,052, Unrealized PnL: 51
+WIF: Position Value: 1,007, Unrealized PnL: 6
+
+
+### FEED COMPLETE ###
+2024-10-15 06:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,290
+Total Notional Position: 4,133
+Cross Maintenance Margin Used: 204
+Withdrawable: 883
+
+SOL: Position Value: 1,050, Unrealized PnL: 54
+kPEPE: Position Value: 1,056, Unrealized PnL: 55
+kBONK: Position Value: 1,033, Unrealized PnL: 32
+WIF: Position Value: 993, Unrealized PnL: -7
+
+
+### FEED COMPLETE ###
+2024-10-15 07:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,318
+Total Notional Position: 4,161
+Cross Maintenance Margin Used: 205
+Withdrawable: 908
+
+SOL: Position Value: 1,055, Unrealized PnL: 60
+kPEPE: Position Value: 1,062, Unrealized PnL: 61
+kBONK: Position Value: 1,043, Unrealized PnL: 42
+WIF: Position Value: 1,001, Unrealized PnL: 0
+
+
+### FEED COMPLETE ###
+2024-10-15 08:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,305
+Total Notional Position: 4,148
+Cross Maintenance Margin Used: 204
+Withdrawable: 897
+
+SOL: Position Value: 1,056, Unrealized PnL: 60
+kPEPE: Position Value: 1,059, Unrealized PnL: 58
+kBONK: Position Value: 1,040, Unrealized PnL: 39
+WIF: Position Value: 994, Unrealized PnL: -7
+
+
+### FEED COMPLETE ###
+2024-10-15 09:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,305
+Total Notional Position: 4,148
+Cross Maintenance Margin Used: 204
+Withdrawable: 896
+
+SOL: Position Value: 1,053, Unrealized PnL: 57
+kPEPE: Position Value: 1,060, Unrealized PnL: 59
+kBONK: Position Value: 1,043, Unrealized PnL: 42
+WIF: Position Value: 992, Unrealized PnL: -9
+
+
+### FEED COMPLETE ###
+2024-10-15 10:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,283
+Total Notional Position: 4,126
+Cross Maintenance Margin Used: 203
+Withdrawable: 877
+
+SOL: Position Value: 1,050, Unrealized PnL: 55
+kPEPE: Position Value: 1,053, Unrealized PnL: 52
+kBONK: Position Value: 1,032, Unrealized PnL: 31
+WIF: Position Value: 991, Unrealized PnL: -10
+
+
+### FEED COMPLETE ###
+2024-10-15 11:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,290
+Total Notional Position: 4,134
+Cross Maintenance Margin Used: 203
+Withdrawable: 883
+
+SOL: Position Value: 1,053, Unrealized PnL: 58
+kPEPE: Position Value: 1,054, Unrealized PnL: 53
+kBONK: Position Value: 1,037, Unrealized PnL: 36
+WIF: Position Value: 989, Unrealized PnL: -12
+
+
+### FEED COMPLETE ###
+2024-10-15 12:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,180
+Total Notional Position: 3,057
+Cross Maintenance Margin Used: 102
+Withdrawable: 977
+
+SOL: Position Value: 1,038, Unrealized PnL: 43
+kPEPE: Position Value: 1,012, Unrealized PnL: 11
+kBONK: Position Value: 1,007, Unrealized PnL: 6
+
+
+### FEED COMPLETE ###
+2024-10-15 13:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,221
+Total Notional Position: 3,098
+Cross Maintenance Margin Used: 103
+Withdrawable: 1,015
+
+SOL: Position Value: 1,046, Unrealized PnL: 50
+kPEPE: Position Value: 1,030, Unrealized PnL: 29
+kBONK: Position Value: 1,022, Unrealized PnL: 21
+
+
+### FEED COMPLETE ###
+2024-10-15 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,374
+Total Notional Position: 3,251
+Cross Maintenance Margin Used: 108
+Withdrawable: 1,158
+
+SOL: Position Value: 1,084, Unrealized PnL: 88
+kPEPE: Position Value: 1,100, Unrealized PnL: 99
+kBONK: Position Value: 1,067, Unrealized PnL: 66
+
+
+### FEED COMPLETE ###
+2024-10-15 15:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,166
+Total Notional Position: 3,044
+Cross Maintenance Margin Used: 101
+Withdrawable: 964
+
+SOL: Position Value: 1,033, Unrealized PnL: 37
+kPEPE: Position Value: 1,009, Unrealized PnL: 8
+kBONK: Position Value: 1,002, Unrealized PnL: 2
+
+
+### FEED COMPLETE ###
+2024-10-15 16:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,213
+Total Notional Position: 3,091
+Cross Maintenance Margin Used: 103
+Withdrawable: 1,008
+
+SOL: Position Value: 1,044, Unrealized PnL: 48
+kPEPE: Position Value: 1,030, Unrealized PnL: 29
+kBONK: Position Value: 1,017, Unrealized PnL: 16
+
+
+### FEED COMPLETE ###
+2024-10-15 17:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,257
+Total Notional Position: 3,134
+Cross Maintenance Margin Used: 104
+Withdrawable: 1,049
+
+SOL: Position Value: 1,057, Unrealized PnL: 61
+kPEPE: Position Value: 1,043, Unrealized PnL: 42
+kBONK: Position Value: 1,034, Unrealized PnL: 34
+
+
+### FEED COMPLETE ###
+2024-10-15 18:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,228
+Total Notional Position: 3,105
+Cross Maintenance Margin Used: 103
+Withdrawable: 1,021
+
+SOL: Position Value: 1,053, Unrealized PnL: 57
+kPEPE: Position Value: 1,025, Unrealized PnL: 24
+kBONK: Position Value: 1,027, Unrealized PnL: 26
+
+
+### FEED COMPLETE ###
+2024-10-15 19:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,252
+Total Notional Position: 3,129
+Cross Maintenance Margin Used: 104
+Withdrawable: 1,044
+
+SOL: Position Value: 1,056, Unrealized PnL: 60
+kPEPE: Position Value: 1,039, Unrealized PnL: 38
+kBONK: Position Value: 1,034, Unrealized PnL: 33
+
+
+### FEED COMPLETE ###
+2024-10-15 20:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,231
+Total Notional Position: 3,108
+Cross Maintenance Margin Used: 103
+Withdrawable: 1,024
+
+SOL: Position Value: 1,055, Unrealized PnL: 59
+kPEPE: Position Value: 1,028, Unrealized PnL: 27
+kBONK: Position Value: 1,026, Unrealized PnL: 25
+
+
+### FEED COMPLETE ###
+2024-10-15 21:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,154
+Total Notional Position: 3,031
+Cross Maintenance Margin Used: 101
+Withdrawable: 953
+
+SOL: Position Value: 1,038, Unrealized PnL: 42
+kPEPE: Position Value: 1,001, Unrealized PnL: 0
+kBONK: Position Value: 992, Unrealized PnL: -9
+
+
+### FEED COMPLETE ###
+2024-10-15 22:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,182
+Total Notional Position: 3,059
+Cross Maintenance Margin Used: 102
+Withdrawable: 979
+
+SOL: Position Value: 1,045, Unrealized PnL: 49
+kPEPE: Position Value: 1,010, Unrealized PnL: 9
+kBONK: Position Value: 1,004, Unrealized PnL: 3
+
+
+### FEED COMPLETE ###
+2024-10-15 23:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,184
+Total Notional Position: 3,061
+Cross Maintenance Margin Used: 102
+Withdrawable: 981
+
+SOL: Position Value: 1,041, Unrealized PnL: 45
+kPEPE: Position Value: 1,016, Unrealized PnL: 15
+kBONK: Position Value: 1,004, Unrealized PnL: 4
+
+
+### FEED COMPLETE ###
+2024-10-16 00:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,233
+Total Notional Position: 3,111
+Cross Maintenance Margin Used: 103
+Withdrawable: 1,027
+
+SOL: Position Value: 1,053, Unrealized PnL: 57
+kPEPE: Position Value: 1,036, Unrealized PnL: 35
+kBONK: Position Value: 1,022, Unrealized PnL: 21
+
+
+### FEED COMPLETE ###
+2024-10-16 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,206
+Total Notional Position: 3,084
+Cross Maintenance Margin Used: 102
+Withdrawable: 1,002
+
+SOL: Position Value: 1,048, Unrealized PnL: 52
+kPEPE: Position Value: 1,030, Unrealized PnL: 29
+kBONK: Position Value: 1,005, Unrealized PnL: 5
+
+
+### FEED COMPLETE ###
+2024-10-16 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,243
+Total Notional Position: 3,121
+Cross Maintenance Margin Used: 104
+Withdrawable: 1,036
+
+SOL: Position Value: 1,053, Unrealized PnL: 58
+kPEPE: Position Value: 1,047, Unrealized PnL: 46
+kBONK: Position Value: 1,021, Unrealized PnL: 20
+
+
+### FEED COMPLETE ###
+2024-10-16 03:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,258
+Total Notional Position: 3,136
+Cross Maintenance Margin Used: 104
+Withdrawable: 1,049
+
+SOL: Position Value: 1,051, Unrealized PnL: 55
+kPEPE: Position Value: 1,045, Unrealized PnL: 44
+kBONK: Position Value: 1,040, Unrealized PnL: 39
+
+
+### FEED COMPLETE ###
+2024-10-16 04:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,222
+Total Notional Position: 3,100
+Cross Maintenance Margin Used: 103
+Withdrawable: 1,016
+
+SOL: Position Value: 1,049, Unrealized PnL: 53
+kPEPE: Position Value: 1,033, Unrealized PnL: 32
+kBONK: Position Value: 1,018, Unrealized PnL: 18
+
+
+### FEED COMPLETE ###
+2024-10-16 05:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,215
+Total Notional Position: 3,092
+Cross Maintenance Margin Used: 103
+Withdrawable: 1,009
+
+SOL: Position Value: 1,047, Unrealized PnL: 51
+kPEPE: Position Value: 1,030, Unrealized PnL: 29
+kBONK: Position Value: 1,015, Unrealized PnL: 14
+
+
+### FEED COMPLETE ###
+2024-10-16 06:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,211
+Total Notional Position: 3,089
+Cross Maintenance Margin Used: 103
+Withdrawable: 1,006
+
+SOL: Position Value: 1,048, Unrealized PnL: 53
+kPEPE: Position Value: 1,028, Unrealized PnL: 27
+kBONK: Position Value: 1,013, Unrealized PnL: 12
+
+
+### FEED COMPLETE ###
+2024-10-16 07:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,180
+Total Notional Position: 3,058
+Cross Maintenance Margin Used: 101
+Withdrawable: 977
+
+SOL: Position Value: 1,046, Unrealized PnL: 50
+kPEPE: Position Value: 1,011, Unrealized PnL: 10
+kBONK: Position Value: 1,001, Unrealized PnL: 0
+
+
+### FEED COMPLETE ###
+2024-10-16 08:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,192
+Total Notional Position: 3,070
+Cross Maintenance Margin Used: 102
+Withdrawable: 988
+
+SOL: Position Value: 1,046, Unrealized PnL: 50
+kPEPE: Position Value: 1,022, Unrealized PnL: 21
+kBONK: Position Value: 1,002, Unrealized PnL: 1
+
+
+### FEED COMPLETE ###
+2024-10-16 09:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,226
+Total Notional Position: 3,104
+Cross Maintenance Margin Used: 103
+Withdrawable: 1,020
+
+SOL: Position Value: 1,052, Unrealized PnL: 56
+kPEPE: Position Value: 1,029, Unrealized PnL: 28
+kBONK: Position Value: 1,023, Unrealized PnL: 22
+
+
+### FEED COMPLETE ###
+2024-10-16 10:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,257
+Total Notional Position: 3,135
+Cross Maintenance Margin Used: 104
+Withdrawable: 1,049
+
+SOL: Position Value: 1,055, Unrealized PnL: 60
+kPEPE: Position Value: 1,042, Unrealized PnL: 41
+kBONK: Position Value: 1,038, Unrealized PnL: 37
+
+
+### FEED COMPLETE ###
+2024-10-16 11:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,251
+Total Notional Position: 3,129
+Cross Maintenance Margin Used: 104
+Withdrawable: 1,043
+
+SOL: Position Value: 1,059, Unrealized PnL: 63
+kPEPE: Position Value: 1,036, Unrealized PnL: 35
+kBONK: Position Value: 1,034, Unrealized PnL: 33
+
+
+### FEED COMPLETE ###
+2024-10-16 12:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,264
+Total Notional Position: 3,142
+Cross Maintenance Margin Used: 105
+Withdrawable: 1,055
+
+SOL: Position Value: 1,056, Unrealized PnL: 61
+kPEPE: Position Value: 1,039, Unrealized PnL: 38
+kBONK: Position Value: 1,047, Unrealized PnL: 46
+
+
+### FEED COMPLETE ###
+2024-10-16 13:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,303
+Total Notional Position: 3,182
+Cross Maintenance Margin Used: 106
+Withdrawable: 1,090
+
+SOL: Position Value: 1,057, Unrealized PnL: 61
+kPEPE: Position Value: 1,049, Unrealized PnL: 48
+kBONK: Position Value: 1,076, Unrealized PnL: 75
+
+
+### FEED COMPLETE ###
+2024-10-16 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,270
+Total Notional Position: 3,149
+Cross Maintenance Margin Used: 105
+Withdrawable: 1,060
+
+SOL: Position Value: 1,051, Unrealized PnL: 55
+kPEPE: Position Value: 1,037, Unrealized PnL: 36
+kBONK: Position Value: 1,061, Unrealized PnL: 60
+
+
+### FEED COMPLETE ###
+2024-10-16 15:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,294
+Total Notional Position: 3,173
+Cross Maintenance Margin Used: 106
+Withdrawable: 1,082
+
+SOL: Position Value: 1,054, Unrealized PnL: 58
+kPEPE: Position Value: 1,044, Unrealized PnL: 43
+kBONK: Position Value: 1,076, Unrealized PnL: 75
+
+
+### FEED COMPLETE ###
+2024-10-16 16:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,288
+Total Notional Position: 3,166
+Cross Maintenance Margin Used: 106
+Withdrawable: 1,076
+
+SOL: Position Value: 1,061, Unrealized PnL: 65
+kPEPE: Position Value: 1,034, Unrealized PnL: 33
+kBONK: Position Value: 1,071, Unrealized PnL: 70
+
+
+### FEED COMPLETE ###
+2024-10-16 17:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,290
+Total Notional Position: 3,168
+Cross Maintenance Margin Used: 106
+Withdrawable: 1,077
+
+SOL: Position Value: 1,056, Unrealized PnL: 60
+kPEPE: Position Value: 1,032, Unrealized PnL: 31
+kBONK: Position Value: 1,080, Unrealized PnL: 80
+
+
+### FEED COMPLETE ###
+2024-10-16 18:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,317
+Total Notional Position: 3,196
+Cross Maintenance Margin Used: 107
+Withdrawable: 1,102
+
+SOL: Position Value: 1,056, Unrealized PnL: 60
+kPEPE: Position Value: 1,038, Unrealized PnL: 37
+kBONK: Position Value: 1,102, Unrealized PnL: 101
+
+
+### FEED COMPLETE ###
+2024-10-16 19:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,293
+Total Notional Position: 3,172
+Cross Maintenance Margin Used: 107
+Withdrawable: 1,080
+
+SOL: Position Value: 1,051, Unrealized PnL: 55
+kPEPE: Position Value: 1,031, Unrealized PnL: 30
+kBONK: Position Value: 1,090, Unrealized PnL: 89
+
+
+### FEED COMPLETE ###
+2024-10-16 20:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,315
+Total Notional Position: 3,193
+Cross Maintenance Margin Used: 107
+Withdrawable: 1,100
+
+SOL: Position Value: 1,051, Unrealized PnL: 55
+kPEPE: Position Value: 1,041, Unrealized PnL: 40
+kBONK: Position Value: 1,102, Unrealized PnL: 101
+
+
+### FEED COMPLETE ###
+2024-10-16 21:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,356
+Total Notional Position: 3,235
+Cross Maintenance Margin Used: 109
+Withdrawable: 1,137
+
+SOL: Position Value: 1,052, Unrealized PnL: 56
+kPEPE: Position Value: 1,049, Unrealized PnL: 48
+kBONK: Position Value: 1,134, Unrealized PnL: 133
+
+
+### FEED COMPLETE ###
+2024-10-16 22:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,347
+Total Notional Position: 3,226
+Cross Maintenance Margin Used: 109
+Withdrawable: 1,129
+
+SOL: Position Value: 1,048, Unrealized PnL: 52
+kPEPE: Position Value: 1,050, Unrealized PnL: 49
+kBONK: Position Value: 1,129, Unrealized PnL: 128
+
+
+### FEED COMPLETE ###
+2024-10-16 23:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,347
+Total Notional Position: 3,226
+Cross Maintenance Margin Used: 109
+Withdrawable: 1,129
+
+SOL: Position Value: 1,053, Unrealized PnL: 57
+kPEPE: Position Value: 1,048, Unrealized PnL: 47
+kBONK: Position Value: 1,125, Unrealized PnL: 124
+
+
+### FEED COMPLETE ###
+2024-10-17 00:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,334
+Total Notional Position: 3,213
+Cross Maintenance Margin Used: 108
+Withdrawable: 1,117
+
+SOL: Position Value: 1,051, Unrealized PnL: 55
+kPEPE: Position Value: 1,044, Unrealized PnL: 43
+kBONK: Position Value: 1,117, Unrealized PnL: 117
+
+
+### FEED COMPLETE ###
+2024-10-17 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,338
+Total Notional Position: 3,217
+Cross Maintenance Margin Used: 108
+Withdrawable: 1,121
+
+SOL: Position Value: 1,054, Unrealized PnL: 58
+kPEPE: Position Value: 1,041, Unrealized PnL: 40
+kBONK: Position Value: 1,122, Unrealized PnL: 121
+
+
+### FEED COMPLETE ###
+2024-10-17 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,340
+Total Notional Position: 3,220
+Cross Maintenance Margin Used: 108
+Withdrawable: 1,124
+
+SOL: Position Value: 1,058, Unrealized PnL: 62
+kPEPE: Position Value: 1,048, Unrealized PnL: 47
+kBONK: Position Value: 1,113, Unrealized PnL: 112
+
+
+### FEED COMPLETE ###
+2024-10-17 03:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,298
+Total Notional Position: 3,177
+Cross Maintenance Margin Used: 107
+Withdrawable: 1,085
+
+SOL: Position Value: 1,047, Unrealized PnL: 51
+kPEPE: Position Value: 1,036, Unrealized PnL: 35
+kBONK: Position Value: 1,094, Unrealized PnL: 94
+
+
+### FEED COMPLETE ###
+2024-10-17 04:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,325
+Total Notional Position: 3,204
+Cross Maintenance Margin Used: 108
+Withdrawable: 1,109
+
+SOL: Position Value: 1,051, Unrealized PnL: 55
+kPEPE: Position Value: 1,044, Unrealized PnL: 43
+kBONK: Position Value: 1,109, Unrealized PnL: 108
+
+
+### FEED COMPLETE ###
+2024-10-17 05:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,298
+Total Notional Position: 3,178
+Cross Maintenance Margin Used: 107
+Withdrawable: 1,084
+
+SOL: Position Value: 1,043, Unrealized PnL: 48
+kPEPE: Position Value: 1,033, Unrealized PnL: 32
+kBONK: Position Value: 1,101, Unrealized PnL: 100
+
+
+### FEED COMPLETE ###
+2024-10-17 06:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,278
+Total Notional Position: 3,157
+Cross Maintenance Margin Used: 106
+Withdrawable: 1,065
+
+SOL: Position Value: 1,040, Unrealized PnL: 44
+kPEPE: Position Value: 1,019, Unrealized PnL: 18
+kBONK: Position Value: 1,098, Unrealized PnL: 97
+
+
+### FEED COMPLETE ###
+2024-10-17 07:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,266
+Total Notional Position: 3,145
+Cross Maintenance Margin Used: 106
+Withdrawable: 1,054
+
+SOL: Position Value: 1,036, Unrealized PnL: 40
+kPEPE: Position Value: 1,016, Unrealized PnL: 15
+kBONK: Position Value: 1,093, Unrealized PnL: 92
+
+
+### FEED COMPLETE ###
+2024-10-17 08:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,260
+Total Notional Position: 3,139
+Cross Maintenance Margin Used: 106
+Withdrawable: 1,049
+
+SOL: Position Value: 1,039, Unrealized PnL: 43
+kPEPE: Position Value: 1,019, Unrealized PnL: 18
+kBONK: Position Value: 1,081, Unrealized PnL: 80
+
+
+### FEED COMPLETE ###
+2024-10-17 09:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,272
+Total Notional Position: 3,152
+Cross Maintenance Margin Used: 106
+Withdrawable: 1,060
+
+SOL: Position Value: 1,043, Unrealized PnL: 47
+kPEPE: Position Value: 1,021, Unrealized PnL: 20
+kBONK: Position Value: 1,088, Unrealized PnL: 87
+
+
+### FEED COMPLETE ###
+2024-10-17 10:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,257
+Total Notional Position: 3,137
+Cross Maintenance Margin Used: 105
+Withdrawable: 1,046
+
+SOL: Position Value: 1,043, Unrealized PnL: 47
+kPEPE: Position Value: 1,016, Unrealized PnL: 15
+kBONK: Position Value: 1,078, Unrealized PnL: 77
+
+
+### FEED COMPLETE ###
+2024-10-17 11:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,223
+Total Notional Position: 3,102
+Cross Maintenance Margin Used: 104
+Withdrawable: 1,014
+
+SOL: Position Value: 1,038, Unrealized PnL: 42
+kPEPE: Position Value: 1,004, Unrealized PnL: 3
+kBONK: Position Value: 1,060, Unrealized PnL: 60
+
+
+### FEED COMPLETE ###
+2024-10-17 12:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,172
+Total Notional Position: 3,052
+Cross Maintenance Margin Used: 102
+Withdrawable: 968
+
+SOL: Position Value: 1,029, Unrealized PnL: 33
+kPEPE: Position Value: 993, Unrealized PnL: -8
+kBONK: Position Value: 1,030, Unrealized PnL: 29
+
+
+### FEED COMPLETE ###
+2024-10-17 13:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,215
+Total Notional Position: 3,095
+Cross Maintenance Margin Used: 104
+Withdrawable: 1,008
+
+SOL: Position Value: 1,039, Unrealized PnL: 43
+kPEPE: Position Value: 1,007, Unrealized PnL: 6
+kBONK: Position Value: 1,049, Unrealized PnL: 48
+
+
+### FEED COMPLETE ###
+2024-10-17 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,190
+Total Notional Position: 3,070
+Cross Maintenance Margin Used: 103
+Withdrawable: 984
+
+SOL: Position Value: 1,032, Unrealized PnL: 36
+kPEPE: Position Value: 997, Unrealized PnL: -4
+kBONK: Position Value: 1,040, Unrealized PnL: 39
+
+
+### FEED COMPLETE ###
+2024-10-17 15:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,184
+Total Notional Position: 3,063
+Cross Maintenance Margin Used: 102
+Withdrawable: 979
+
+SOL: Position Value: 1,033, Unrealized PnL: 37
+kPEPE: Position Value: 999, Unrealized PnL: -2
+kBONK: Position Value: 1,032, Unrealized PnL: 31
+
+
+### FEED COMPLETE ###
+2024-10-17 16:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,216
+Total Notional Position: 3,096
+Cross Maintenance Margin Used: 104
+Withdrawable: 1,009
+
+SOL: Position Value: 1,039, Unrealized PnL: 43
+kPEPE: Position Value: 1,008, Unrealized PnL: 7
+kBONK: Position Value: 1,049, Unrealized PnL: 48
+
+
+### FEED COMPLETE ###
+2024-10-17 17:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,181
+Total Notional Position: 3,061
+Cross Maintenance Margin Used: 102
+Withdrawable: 976
+
+SOL: Position Value: 1,029, Unrealized PnL: 33
+kPEPE: Position Value: 995, Unrealized PnL: -6
+kBONK: Position Value: 1,036, Unrealized PnL: 35
+
+
+### FEED COMPLETE ###
+2024-10-17 18:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,146
+Total Notional Position: 2,038
+Cross Maintenance Margin Used: 76
+Withdrawable: 993
+
+SOL: Position Value: 1,017, Unrealized PnL: 21
+kBONK: Position Value: 1,021, Unrealized PnL: 20
+
+
+### FEED COMPLETE ###
+2024-10-17 19:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,132
+Total Notional Position: 1,010
+Cross Maintenance Margin Used: 25
+Withdrawable: 1,081
+
+SOL: Position Value: 1,010, Unrealized PnL: 14
+
+
+### FEED COMPLETE ###
+2024-10-17 20:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,139
+Total Notional Position: 1,017
+Cross Maintenance Margin Used: 25
+Withdrawable: 1,088
+
+SOL: Position Value: 1,017, Unrealized PnL: 22
+
+
+### FEED COMPLETE ###
+2024-10-17 21:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,141
+Total Notional Position: 1,019
+Cross Maintenance Margin Used: 25
+Withdrawable: 1,090
+
+SOL: Position Value: 1,019, Unrealized PnL: 23
+
+
+### FEED COMPLETE ###
+2024-10-17 22:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,145
+Total Notional Position: 1,023
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,094
+
+SOL: Position Value: 1,023, Unrealized PnL: 27
+
+
+### FEED COMPLETE ###
+2024-10-17 23:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,147
+Total Notional Position: 1,025
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,096
+
+SOL: Position Value: 1,025, Unrealized PnL: 30
+
+
+### FEED COMPLETE ###
+2024-10-18 00:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,144
+Total Notional Position: 1,022
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,093
+
+SOL: Position Value: 1,022, Unrealized PnL: 27
+
+
+### FEED COMPLETE ###
+2024-10-18 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,141
+Total Notional Position: 1,019
+Cross Maintenance Margin Used: 25
+Withdrawable: 1,090
+
+SOL: Position Value: 1,019, Unrealized PnL: 24
+
+
+### FEED COMPLETE ###
+2024-10-18 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,160
+Total Notional Position: 1,038
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,108
+
+SOL: Position Value: 1,038, Unrealized PnL: 42
+
+
+### FEED COMPLETE ###
+2024-10-18 03:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,162
+Total Notional Position: 1,041
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,110
+
+SOL: Position Value: 1,041, Unrealized PnL: 45
+
+
+### FEED COMPLETE ###
+2024-10-18 04:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,156
+Total Notional Position: 1,034
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,104
+
+SOL: Position Value: 1,034, Unrealized PnL: 39
+
+
+### FEED COMPLETE ###
+2024-10-18 05:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,158
+Total Notional Position: 1,037
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,107
+
+SOL: Position Value: 1,037, Unrealized PnL: 41
+
+
+### FEED COMPLETE ###
+2024-10-18 06:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,165
+Total Notional Position: 1,043
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,113
+
+SOL: Position Value: 1,043, Unrealized PnL: 47
+
+
+### FEED COMPLETE ###
+2024-10-18 07:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,167
+Total Notional Position: 1,046
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,115
+
+SOL: Position Value: 1,046, Unrealized PnL: 50
+
+
+### FEED COMPLETE ###
+2024-10-18 08:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,169
+Total Notional Position: 1,048
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,117
+
+SOL: Position Value: 1,048, Unrealized PnL: 52
+
+
+### FEED COMPLETE ###
+2024-10-18 09:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,167
+Total Notional Position: 1,045
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,114
+
+SOL: Position Value: 1,045, Unrealized PnL: 49
+
+
+### FEED COMPLETE ###
+2024-10-18 10:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,166
+Total Notional Position: 1,044
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,114
+
+SOL: Position Value: 1,044, Unrealized PnL: 48
+
+
+### FEED COMPLETE ###
+2024-10-18 11:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,167
+Total Notional Position: 1,046
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,115
+
+SOL: Position Value: 1,046, Unrealized PnL: 50
+
+
+### FEED COMPLETE ###
+2024-10-18 12:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,163
+Total Notional Position: 1,041
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,111
+
+SOL: Position Value: 1,041, Unrealized PnL: 45
+
+
+### FEED COMPLETE ###
+2024-10-18 13:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,157
+Total Notional Position: 1,036
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,105
+
+SOL: Position Value: 1,036, Unrealized PnL: 40
+
+
+### FEED COMPLETE ###
+2024-10-18 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,169
+Total Notional Position: 1,048
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,117
+
+SOL: Position Value: 1,048, Unrealized PnL: 52
+
+
+### FEED COMPLETE ###
+2024-10-18 15:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,174
+Total Notional Position: 1,053
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,122
+
+SOL: Position Value: 1,053, Unrealized PnL: 57
+
+
+### FEED COMPLETE ###
+2024-10-18 16:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,173
+Total Notional Position: 1,051
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,120
+
+SOL: Position Value: 1,051, Unrealized PnL: 55
+
+
+### FEED COMPLETE ###
+2024-10-18 17:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,180
+Total Notional Position: 1,059
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,127
+
+SOL: Position Value: 1,059, Unrealized PnL: 63
+
+
+### FEED COMPLETE ###
+2024-10-18 18:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,178
+Total Notional Position: 1,057
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,126
+
+SOL: Position Value: 1,057, Unrealized PnL: 61
+
+
+### FEED COMPLETE ###
+2024-10-18 19:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,182
+Total Notional Position: 1,061
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,129
+
+SOL: Position Value: 1,061, Unrealized PnL: 65
+
+
+### FEED COMPLETE ###
+2024-10-18 20:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,173
+Total Notional Position: 1,051
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,120
+
+SOL: Position Value: 1,051, Unrealized PnL: 56
+
+
+### FEED COMPLETE ###
+2024-10-18 21:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,173
+Total Notional Position: 1,052
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,121
+
+SOL: Position Value: 1,052, Unrealized PnL: 56
+
+
+### FEED COMPLETE ###
+2024-10-18 22:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,171
+Total Notional Position: 1,050
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,119
+
+SOL: Position Value: 1,050, Unrealized PnL: 54
+
+
+### FEED COMPLETE ###
+2024-10-18 23:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,171
+Total Notional Position: 1,050
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,119
+
+SOL: Position Value: 1,050, Unrealized PnL: 54
+
+
+### FEED COMPLETE ###
+2024-10-19 00:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,176
+Total Notional Position: 1,054
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,123
+
+SOL: Position Value: 1,054, Unrealized PnL: 59
+
+
+### FEED COMPLETE ###
+2024-10-19 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,173
+Total Notional Position: 1,051
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,120
+
+SOL: Position Value: 1,051, Unrealized PnL: 56
+
+
+### FEED COMPLETE ###
+2024-10-19 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,172
+Total Notional Position: 1,051
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,119
+
+SOL: Position Value: 1,051, Unrealized PnL: 55
+
+
+### FEED COMPLETE ###
+2024-10-19 03:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,176
+Total Notional Position: 1,055
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,123
+
+SOL: Position Value: 1,055, Unrealized PnL: 59
+
+
+### FEED COMPLETE ###
+2024-10-19 04:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,174
+Total Notional Position: 1,053
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,121
+
+SOL: Position Value: 1,053, Unrealized PnL: 57
+
+
+### FEED COMPLETE ###
+2024-10-19 05:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,171
+Total Notional Position: 1,049
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,118
+
+SOL: Position Value: 1,049, Unrealized PnL: 53
+
+
+### FEED COMPLETE ###
+2024-10-19 06:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,174
+Total Notional Position: 1,053
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,122
+
+SOL: Position Value: 1,053, Unrealized PnL: 57
+
+
+### FEED COMPLETE ###
+2024-10-19 07:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,173
+Total Notional Position: 1,052
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,121
+
+SOL: Position Value: 1,052, Unrealized PnL: 56
+
+
+### FEED COMPLETE ###
+2024-10-19 08:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,173
+Total Notional Position: 1,052
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,121
+
+SOL: Position Value: 1,052, Unrealized PnL: 56
+
+
+### FEED COMPLETE ###
+2024-10-19 09:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,174
+Total Notional Position: 1,053
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,122
+
+SOL: Position Value: 1,053, Unrealized PnL: 57
+
+
+### FEED COMPLETE ###
+2024-10-19 10:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,173
+Total Notional Position: 1,052
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,121
+
+SOL: Position Value: 1,052, Unrealized PnL: 56
+
+
+### FEED COMPLETE ###
+2024-10-19 11:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,172
+Total Notional Position: 1,051
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,119
+
+SOL: Position Value: 1,051, Unrealized PnL: 55
+
+
+### FEED COMPLETE ###
+2024-10-19 12:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,169
+Total Notional Position: 1,048
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,117
+
+SOL: Position Value: 1,048, Unrealized PnL: 52
+
+
+### FEED COMPLETE ###
+2024-10-19 13:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,172
+Total Notional Position: 1,051
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,120
+
+SOL: Position Value: 1,051, Unrealized PnL: 55
+
+
+### FEED COMPLETE ###
+2024-10-19 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,175
+Total Notional Position: 1,054
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,123
+
+SOL: Position Value: 1,054, Unrealized PnL: 58
+
+
+### FEED COMPLETE ###
+2024-10-19 15:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,188
+Total Notional Position: 1,067
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,134
+
+SOL: Position Value: 1,067, Unrealized PnL: 71
+
+
+### FEED COMPLETE ###
+2024-10-19 16:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,185
+Total Notional Position: 1,063
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,131
+
+SOL: Position Value: 1,063, Unrealized PnL: 68
+
+
+### FEED COMPLETE ###
+2024-10-19 17:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,182
+Total Notional Position: 1,061
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,129
+
+SOL: Position Value: 1,061, Unrealized PnL: 65
+
+
+### FEED COMPLETE ###
+2024-10-19 18:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,180
+Total Notional Position: 1,059
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,127
+
+SOL: Position Value: 1,059, Unrealized PnL: 63
+
+
+### FEED COMPLETE ###
+2024-10-19 19:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,181
+Total Notional Position: 1,060
+Cross Maintenance Margin Used: 26
+Withdrawable: 1,128
+
+SOL: Position Value: 1,060, Unrealized PnL: 64
+
+
+### FEED COMPLETE ###
+2024-10-19 20:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,184
+Total Notional Position: 1,063
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,131
+
+SOL: Position Value: 1,063, Unrealized PnL: 68
+
+
+### FEED COMPLETE ###
+2024-10-19 21:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,189
+Total Notional Position: 1,068
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,136
+
+SOL: Position Value: 1,068, Unrealized PnL: 72
+
+
+### FEED COMPLETE ###
+2024-10-19 22:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,189
+Total Notional Position: 1,068
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,136
+
+SOL: Position Value: 1,068, Unrealized PnL: 72
+
+
+### FEED COMPLETE ###
+2024-10-19 23:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,203
+Total Notional Position: 1,082
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,149
+
+SOL: Position Value: 1,082, Unrealized PnL: 86
+
+
+### FEED COMPLETE ###
+2024-10-20 00:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,208
+Total Notional Position: 1,087
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,153
+
+SOL: Position Value: 1,087, Unrealized PnL: 91
+
+
+### FEED COMPLETE ###
+2024-10-20 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,201
+Total Notional Position: 1,080
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,147
+
+SOL: Position Value: 1,080, Unrealized PnL: 84
+
+
+### FEED COMPLETE ###
+2024-10-20 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,203
+Total Notional Position: 1,082
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,149
+
+SOL: Position Value: 1,082, Unrealized PnL: 86
+
+
+### FEED COMPLETE ###
+2024-10-20 03:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,199
+Total Notional Position: 1,078
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,145
+
+SOL: Position Value: 1,078, Unrealized PnL: 83
+
+
+### FEED COMPLETE ###
+2024-10-20 04:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,202
+Total Notional Position: 1,081
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,148
+
+SOL: Position Value: 1,081, Unrealized PnL: 85
+
+
+### FEED COMPLETE ###
+2024-10-20 05:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,206
+Total Notional Position: 1,086
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,152
+
+SOL: Position Value: 1,086, Unrealized PnL: 90
+
+
+### FEED COMPLETE ###
+2024-10-20 06:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,204
+Total Notional Position: 1,083
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,150
+
+SOL: Position Value: 1,083, Unrealized PnL: 88
+
+
+### FEED COMPLETE ###
+2024-10-20 07:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,204
+Total Notional Position: 1,083
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,149
+
+SOL: Position Value: 1,083, Unrealized PnL: 87
+
+
+### FEED COMPLETE ###
+2024-10-20 08:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,202
+Total Notional Position: 1,081
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,148
+
+SOL: Position Value: 1,081, Unrealized PnL: 85
+
+
+### FEED COMPLETE ###
+2024-10-20 09:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,201
+Total Notional Position: 1,080
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,147
+
+SOL: Position Value: 1,080, Unrealized PnL: 84
+
+
+### FEED COMPLETE ###
+2024-10-20 10:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,204
+Total Notional Position: 1,083
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,150
+
+SOL: Position Value: 1,083, Unrealized PnL: 88
+
+
+### FEED COMPLETE ###
+2024-10-20 11:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,202
+Total Notional Position: 1,081
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,148
+
+SOL: Position Value: 1,081, Unrealized PnL: 85
+
+
+### FEED COMPLETE ###
+2024-10-20 12:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,204
+Total Notional Position: 1,083
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,150
+
+SOL: Position Value: 1,083, Unrealized PnL: 87
+
+
+### FEED COMPLETE ###
+2024-10-20 13:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,200
+Total Notional Position: 1,079
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,146
+
+SOL: Position Value: 1,079, Unrealized PnL: 84
+
+
+### FEED COMPLETE ###
+2024-10-20 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,198
+Total Notional Position: 1,077
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,144
+
+SOL: Position Value: 1,077, Unrealized PnL: 81
+
+
+### FEED COMPLETE ###
+2024-10-20 15:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,215
+Total Notional Position: 1,094
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,160
+
+SOL: Position Value: 1,094, Unrealized PnL: 99
+
+
+### FEED COMPLETE ###
+2024-10-20 16:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,207
+Total Notional Position: 1,087
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,153
+
+SOL: Position Value: 1,087, Unrealized PnL: 91
+
+
+### FEED COMPLETE ###
+2024-10-20 17:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,209
+Total Notional Position: 1,088
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,154
+
+SOL: Position Value: 1,088, Unrealized PnL: 92
+
+
+### FEED COMPLETE ###
+2024-10-20 18:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,212
+Total Notional Position: 1,091
+Cross Maintenance Margin Used: 27
+Withdrawable: 1,157
+
+SOL: Position Value: 1,091, Unrealized PnL: 95
+
+
+### FEED COMPLETE ###
+2024-10-20 19:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,206
+Total Notional Position: 2,086
+Cross Maintenance Margin Used: 127
+Withdrawable: 952
+
+SOL: Position Value: 1,091, Unrealized PnL: 95
+WIF: Position Value: 995, Unrealized PnL: -5
+
+
+### FEED COMPLETE ###
+2024-10-20 20:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,197
+Total Notional Position: 2,077
+Cross Maintenance Margin Used: 126
+Withdrawable: 945
+
+SOL: Position Value: 1,091, Unrealized PnL: 95
+WIF: Position Value: 986, Unrealized PnL: -14
+
+
+### FEED COMPLETE ###
+2024-10-20 21:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,234
+Total Notional Position: 2,114
+Cross Maintenance Margin Used: 128
+Withdrawable: 978
+
+SOL: Position Value: 1,112, Unrealized PnL: 116
+WIF: Position Value: 1,002, Unrealized PnL: 2
+
+
+### FEED COMPLETE ###
+2024-10-20 22:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,237
+Total Notional Position: 2,117
+Cross Maintenance Margin Used: 128
+Withdrawable: 981
+
+SOL: Position Value: 1,117, Unrealized PnL: 121
+WIF: Position Value: 1,000, Unrealized PnL: 0
+
+
+### FEED COMPLETE ###
+2024-10-20 23:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,250
+Total Notional Position: 4,134
+Cross Maintenance Margin Used: 179
+Withdrawable: 892
+
+SOL: Position Value: 1,135, Unrealized PnL: 139
+SUI: Position Value: 994, Unrealized PnL: -7
+kPEPE: Position Value: 994, Unrealized PnL: -7
+WIF: Position Value: 1,010, Unrealized PnL: 10
+
+
+### FEED COMPLETE ###
+2024-10-21 00:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,237
+Total Notional Position: 4,121
+Cross Maintenance Margin Used: 178
+Withdrawable: 880
+
+SOL: Position Value: 1,139, Unrealized PnL: 143
+SUI: Position Value: 987, Unrealized PnL: -13
+kPEPE: Position Value: 990, Unrealized PnL: -12
+WIF: Position Value: 1,004, Unrealized PnL: 4
+
+
+### FEED COMPLETE ###
+2024-10-21 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,252
+Total Notional Position: 5,140
+Cross Maintenance Margin Used: 229
+Withdrawable: 793
+
+SOL: Position Value: 1,149, Unrealized PnL: 153
+SUI: Position Value: 993, Unrealized PnL: -8
+kPEPE: Position Value: 994, Unrealized PnL: -8
+kBONK: Position Value: 993, Unrealized PnL: -11
+WIF: Position Value: 1,012, Unrealized PnL: 11
+
+
+### FEED COMPLETE ###
+2024-10-21 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,281
+Total Notional Position: 5,170
+Cross Maintenance Margin Used: 230
+Withdrawable: 821
+
+SOL: Position Value: 1,156, Unrealized PnL: 160
+SUI: Position Value: 1,000, Unrealized PnL: 0
+kPEPE: Position Value: 1,004, Unrealized PnL: 2
+kBONK: Position Value: 1,000, Unrealized PnL: -4
+WIF: Position Value: 1,010, Unrealized PnL: 10
+
+
+### FEED COMPLETE ###
+2024-10-21 03:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,210
+Total Notional Position: 5,099
+Cross Maintenance Margin Used: 226
+Withdrawable: 757
+
+SOL: Position Value: 1,147, Unrealized PnL: 152
+SUI: Position Value: 989, Unrealized PnL: -11
+kPEPE: Position Value: 986, Unrealized PnL: -16
+kBONK: Position Value: 984, Unrealized PnL: -20
+WIF: Position Value: 992, Unrealized PnL: -8
+
+
+### FEED COMPLETE ###
+2024-10-21 04:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,215
+Total Notional Position: 5,104
+Cross Maintenance Margin Used: 226
+Withdrawable: 762
+
+SOL: Position Value: 1,152, Unrealized PnL: 157
+SUI: Position Value: 995, Unrealized PnL: -6
+kPEPE: Position Value: 987, Unrealized PnL: -15
+kBONK: Position Value: 980, Unrealized PnL: -24
+WIF: Position Value: 990, Unrealized PnL: -10
+
+
+### FEED COMPLETE ###
+2024-10-21 05:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,251
+Total Notional Position: 5,140
+Cross Maintenance Margin Used: 228
+Withdrawable: 795
+
+SOL: Position Value: 1,164, Unrealized PnL: 168
+SUI: Position Value: 993, Unrealized PnL: -7
+kPEPE: Position Value: 996, Unrealized PnL: -6
+kBONK: Position Value: 988, Unrealized PnL: -16
+WIF: Position Value: 999, Unrealized PnL: -2
+
+
+### FEED COMPLETE ###
+2024-10-21 06:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,202
+Total Notional Position: 5,091
+Cross Maintenance Margin Used: 226
+Withdrawable: 750
+
+SOL: Position Value: 1,154, Unrealized PnL: 158
+SUI: Position Value: 983, Unrealized PnL: -18
+kPEPE: Position Value: 988, Unrealized PnL: -14
+kBONK: Position Value: 979, Unrealized PnL: -25
+WIF: Position Value: 989, Unrealized PnL: -11
+
+
+### FEED COMPLETE ###
+2024-10-21 07:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,187
+Total Notional Position: 5,077
+Cross Maintenance Margin Used: 226
+Withdrawable: 736
+
+SOL: Position Value: 1,150, Unrealized PnL: 154
+SUI: Position Value: 972, Unrealized PnL: -29
+kPEPE: Position Value: 982, Unrealized PnL: -20
+kBONK: Position Value: 989, Unrealized PnL: -15
+WIF: Position Value: 985, Unrealized PnL: -16
+
+
+### FEED COMPLETE ###
+2024-10-21 08:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,179
+Total Notional Position: 5,069
+Cross Maintenance Margin Used: 225
+Withdrawable: 729
+
+SOL: Position Value: 1,150, Unrealized PnL: 154
+SUI: Position Value: 978, Unrealized PnL: -22
+kPEPE: Position Value: 978, Unrealized PnL: -23
+kBONK: Position Value: 976, Unrealized PnL: -28
+WIF: Position Value: 985, Unrealized PnL: -15
+
+
+### FEED COMPLETE ###
+2024-10-21 09:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,112
+Total Notional Position: 5,003
+Cross Maintenance Margin Used: 222
+Withdrawable: 668
+
+SOL: Position Value: 1,135, Unrealized PnL: 140
+SUI: Position Value: 968, Unrealized PnL: -33
+kPEPE: Position Value: 967, Unrealized PnL: -34
+kBONK: Position Value: 958, Unrealized PnL: -46
+WIF: Position Value: 974, Unrealized PnL: -26
+
+
+### FEED COMPLETE ###
+2024-10-21 10:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,098
+Total Notional Position: 4,988
+Cross Maintenance Margin Used: 221
+Withdrawable: 656
+
+SOL: Position Value: 1,135, Unrealized PnL: 139
+SUI: Position Value: 970, Unrealized PnL: -31
+kPEPE: Position Value: 967, Unrealized PnL: -35
+kBONK: Position Value: 951, Unrealized PnL: -53
+WIF: Position Value: 965, Unrealized PnL: -35
+
+
+### FEED COMPLETE ###
+2024-10-21 11:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,077
+Total Notional Position: 4,968
+Cross Maintenance Margin Used: 220
+Withdrawable: 637
+
+SOL: Position Value: 1,133, Unrealized PnL: 137
+SUI: Position Value: 960, Unrealized PnL: -40
+kPEPE: Position Value: 964, Unrealized PnL: -38
+kBONK: Position Value: 950, Unrealized PnL: -54
+WIF: Position Value: 961, Unrealized PnL: -39
+
+
+### FEED COMPLETE ###
+2024-10-21 12:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,088
+Total Notional Position: 4,978
+Cross Maintenance Margin Used: 220
+Withdrawable: 647
+
+SOL: Position Value: 1,135, Unrealized PnL: 139
+SUI: Position Value: 961, Unrealized PnL: -40
+kPEPE: Position Value: 967, Unrealized PnL: -35
+kBONK: Position Value: 955, Unrealized PnL: -49
+WIF: Position Value: 961, Unrealized PnL: -39
+
+
+### FEED COMPLETE ###
+2024-10-21 13:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,056
+Total Notional Position: 4,947
+Cross Maintenance Margin Used: 219
+Withdrawable: 619
+
+SOL: Position Value: 1,127, Unrealized PnL: 131
+SUI: Position Value: 959, Unrealized PnL: -41
+kPEPE: Position Value: 960, Unrealized PnL: -41
+kBONK: Position Value: 952, Unrealized PnL: -52
+WIF: Position Value: 948, Unrealized PnL: -52
+
+
+### FEED COMPLETE ###
+2024-10-21 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 974
+Total Notional Position: 4,865
+Cross Maintenance Margin Used: 215
+Withdrawable: 543
+
+SOL: Position Value: 1,109, Unrealized PnL: 113
+SUI: Position Value: 939, Unrealized PnL: -62
+kPEPE: Position Value: 946, Unrealized PnL: -55
+kBONK: Position Value: 935, Unrealized PnL: -69
+WIF: Position Value: 935, Unrealized PnL: -65
+
+
+### FEED COMPLETE ###
+2024-10-21 15:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 974
+Total Notional Position: 4,865
+Cross Maintenance Margin Used: 215
+Withdrawable: 544
+
+SOL: Position Value: 1,116, Unrealized PnL: 120
+SUI: Position Value: 940, Unrealized PnL: -61
+kPEPE: Position Value: 944, Unrealized PnL: -58
+kBONK: Position Value: 932, Unrealized PnL: -72
+WIF: Position Value: 934, Unrealized PnL: -67
+
+
+### FEED COMPLETE ###
+2024-10-21 16:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 998
+Total Notional Position: 4,889
+Cross Maintenance Margin Used: 216
+Withdrawable: 566
+
+SOL: Position Value: 1,122, Unrealized PnL: 126
+SUI: Position Value: 943, Unrealized PnL: -58
+kPEPE: Position Value: 949, Unrealized PnL: -53
+kBONK: Position Value: 940, Unrealized PnL: -64
+WIF: Position Value: 935, Unrealized PnL: -66
+
+
+### FEED COMPLETE ###
+2024-10-21 17:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 982
+Total Notional Position: 4,873
+Cross Maintenance Margin Used: 215
+Withdrawable: 551
+
+SOL: Position Value: 1,121, Unrealized PnL: 125
+SUI: Position Value: 939, Unrealized PnL: -62
+kPEPE: Position Value: 944, Unrealized PnL: -58
+kBONK: Position Value: 939, Unrealized PnL: -65
+WIF: Position Value: 930, Unrealized PnL: -70
+
+
+### FEED COMPLETE ###
+2024-10-21 18:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,010
+Total Notional Position: 4,901
+Cross Maintenance Margin Used: 216
+Withdrawable: 577
+
+SOL: Position Value: 1,126, Unrealized PnL: 130
+SUI: Position Value: 946, Unrealized PnL: -55
+kPEPE: Position Value: 947, Unrealized PnL: -54
+kBONK: Position Value: 948, Unrealized PnL: -56
+WIF: Position Value: 934, Unrealized PnL: -66
+
+
+### FEED COMPLETE ###
+2024-10-21 19:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 998
+Total Notional Position: 4,890
+Cross Maintenance Margin Used: 216
+Withdrawable: 567
+
+SOL: Position Value: 1,129, Unrealized PnL: 133
+SUI: Position Value: 940, Unrealized PnL: -60
+kPEPE: Position Value: 948, Unrealized PnL: -54
+kBONK: Position Value: 945, Unrealized PnL: -59
+WIF: Position Value: 929, Unrealized PnL: -72
+
+
+### FEED COMPLETE ###
+2024-10-21 20:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,027
+Total Notional Position: 4,919
+Cross Maintenance Margin Used: 217
+Withdrawable: 593
+
+SOL: Position Value: 1,137, Unrealized PnL: 142
+SUI: Position Value: 943, Unrealized PnL: -58
+kPEPE: Position Value: 953, Unrealized PnL: -49
+kBONK: Position Value: 951, Unrealized PnL: -53
+WIF: Position Value: 935, Unrealized PnL: -65
+
+
+### FEED COMPLETE ###
+2024-10-21 21:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,036
+Total Notional Position: 4,928
+Cross Maintenance Margin Used: 217
+Withdrawable: 602
+
+SOL: Position Value: 1,133, Unrealized PnL: 137
+SUI: Position Value: 950, Unrealized PnL: -51
+kPEPE: Position Value: 954, Unrealized PnL: -48
+kBONK: Position Value: 954, Unrealized PnL: -50
+WIF: Position Value: 938, Unrealized PnL: -63
+
+
+### FEED COMPLETE ###
+2024-10-21 23:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,012
+Total Notional Position: 4,905
+Cross Maintenance Margin Used: 216
+Withdrawable: 580
+
+SOL: Position Value: 1,136, Unrealized PnL: 141
+SUI: Position Value: 941, Unrealized PnL: -60
+kPEPE: Position Value: 949, Unrealized PnL: -53
+kBONK: Position Value: 949, Unrealized PnL: -55
+WIF: Position Value: 930, Unrealized PnL: -71
+
+
+### FEED COMPLETE ###
+2024-10-22 00:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 999
+Total Notional Position: 4,891
+Cross Maintenance Margin Used: 216
+Withdrawable: 568
+
+SOL: Position Value: 1,133, Unrealized PnL: 137
+SUI: Position Value: 937, Unrealized PnL: -64
+kPEPE: Position Value: 947, Unrealized PnL: -54
+kBONK: Position Value: 946, Unrealized PnL: -58
+WIF: Position Value: 929, Unrealized PnL: -72
+
+
+### FEED COMPLETE ###
+2024-10-22 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 972
+Total Notional Position: 4,865
+Cross Maintenance Margin Used: 214
+Withdrawable: 543
+
+SOL: Position Value: 1,125, Unrealized PnL: 129
+SUI: Position Value: 935, Unrealized PnL: -65
+kPEPE: Position Value: 941, Unrealized PnL: -60
+kBONK: Position Value: 938, Unrealized PnL: -66
+WIF: Position Value: 925, Unrealized PnL: -75
+
+
+### FEED COMPLETE ###
+2024-10-22 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,034
+Total Notional Position: 4,927
+Cross Maintenance Margin Used: 217
+Withdrawable: 600
+
+SOL: Position Value: 1,137, Unrealized PnL: 141
+SUI: Position Value: 941, Unrealized PnL: -60
+kPEPE: Position Value: 957, Unrealized PnL: -45
+kBONK: Position Value: 955, Unrealized PnL: -49
+WIF: Position Value: 937, Unrealized PnL: -63
+
+
+### FEED COMPLETE ###
+2024-10-22 03:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,004
+Total Notional Position: 4,897
+Cross Maintenance Margin Used: 216
+Withdrawable: 572
+
+SOL: Position Value: 1,131, Unrealized PnL: 135
+SUI: Position Value: 934, Unrealized PnL: -67
+kPEPE: Position Value: 949, Unrealized PnL: -52
+kBONK: Position Value: 951, Unrealized PnL: -53
+WIF: Position Value: 932, Unrealized PnL: -68
+
+
+### FEED COMPLETE ###
+2024-10-22 04:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,012
+Total Notional Position: 4,905
+Cross Maintenance Margin Used: 216
+Withdrawable: 579
+
+SOL: Position Value: 1,133, Unrealized PnL: 137
+SUI: Position Value: 938, Unrealized PnL: -63
+kPEPE: Position Value: 952, Unrealized PnL: -50
+kBONK: Position Value: 949, Unrealized PnL: -55
+WIF: Position Value: 933, Unrealized PnL: -67
+
+
+### FEED COMPLETE ###
+2024-10-22 05:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,002
+Total Notional Position: 4,895
+Cross Maintenance Margin Used: 216
+Withdrawable: 571
+
+SOL: Position Value: 1,138, Unrealized PnL: 142
+SUI: Position Value: 934, Unrealized PnL: -67
+kPEPE: Position Value: 949, Unrealized PnL: -53
+kBONK: Position Value: 941, Unrealized PnL: -63
+WIF: Position Value: 933, Unrealized PnL: -67
+
+
+### FEED COMPLETE ###
+2024-10-22 06:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,072
+Total Notional Position: 4,965
+Cross Maintenance Margin Used: 219
+Withdrawable: 633
+
+SOL: Position Value: 1,149, Unrealized PnL: 153
+SUI: Position Value: 940, Unrealized PnL: -60
+kPEPE: Position Value: 958, Unrealized PnL: -44
+kBONK: Position Value: 976, Unrealized PnL: -28
+WIF: Position Value: 942, Unrealized PnL: -59
+
+
+### FEED COMPLETE ###
+2024-10-22 07:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,063
+Total Notional Position: 4,957
+Cross Maintenance Margin Used: 219
+Withdrawable: 625
+
+SOL: Position Value: 1,147, Unrealized PnL: 151
+SUI: Position Value: 936, Unrealized PnL: -65
+kPEPE: Position Value: 955, Unrealized PnL: -46
+kBONK: Position Value: 976, Unrealized PnL: -28
+WIF: Position Value: 943, Unrealized PnL: -58
+
+
+### FEED COMPLETE ###
+2024-10-22 08:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 1,026
+Total Notional Position: 4,919
+Cross Maintenance Margin Used: 217
+Withdrawable: 591
+
+SOL: Position Value: 1,136, Unrealized PnL: 140
+SUI: Position Value: 930, Unrealized PnL: -70
+kPEPE: Position Value: 950, Unrealized PnL: -52
+kBONK: Position Value: 968, Unrealized PnL: -36
+WIF: Position Value: 936, Unrealized PnL: -65
+
+
+### FEED COMPLETE ###
+2024-10-22 09:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 951
+Total Notional Position: 4,845
+Cross Maintenance Margin Used: 214
+Withdrawable: 523
+
+SOL: Position Value: 1,124, Unrealized PnL: 128
+SUI: Position Value: 914, Unrealized PnL: -87
+kPEPE: Position Value: 935, Unrealized PnL: -67
+kBONK: Position Value: 952, Unrealized PnL: -52
+WIF: Position Value: 921, Unrealized PnL: -80
+
+
+### FEED COMPLETE ###
+2024-10-22 10:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 917
+Total Notional Position: 3,002
+Cross Maintenance Margin Used: 99
+Withdrawable: 720
+
+SOL: Position Value: 1,124, Unrealized PnL: 128
+kPEPE: Position Value: 939, Unrealized PnL: -63
+kBONK: Position Value: 940, Unrealized PnL: -64
+
+
+### FEED COMPLETE ###
+2024-10-22 11:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 928
+Total Notional Position: 3,014
+Cross Maintenance Margin Used: 99
+Withdrawable: 731
+
+SOL: Position Value: 1,133, Unrealized PnL: 137
+kPEPE: Position Value: 942, Unrealized PnL: -60
+kBONK: Position Value: 939, Unrealized PnL: -65
+
+
+### FEED COMPLETE ###
+2024-10-22 12:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 938
+Total Notional Position: 3,024
+Cross Maintenance Margin Used: 99
+Withdrawable: 740
+
+SOL: Position Value: 1,142, Unrealized PnL: 146
+kPEPE: Position Value: 942, Unrealized PnL: -60
+kBONK: Position Value: 939, Unrealized PnL: -65
+
+
+### FEED COMPLETE ###
+2024-10-22 13:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 909
+Total Notional Position: 2,994
+Cross Maintenance Margin Used: 98
+Withdrawable: 713
+
+SOL: Position Value: 1,134, Unrealized PnL: 138
+kPEPE: Position Value: 937, Unrealized PnL: -65
+kBONK: Position Value: 923, Unrealized PnL: -80
+
+
+### FEED COMPLETE ###
+2024-10-22 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 889
+Total Notional Position: 2,975
+Cross Maintenance Margin Used: 97
+Withdrawable: 694
+
+SOL: Position Value: 1,130, Unrealized PnL: 135
+kPEPE: Position Value: 926, Unrealized PnL: -76
+kBONK: Position Value: 918, Unrealized PnL: -86
+
+
+### FEED COMPLETE ###
+2024-10-22 15:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 948
+Total Notional Position: 3,034
+Cross Maintenance Margin Used: 99
+Withdrawable: 750
+
+SOL: Position Value: 1,160, Unrealized PnL: 164
+kPEPE: Position Value: 939, Unrealized PnL: -63
+kBONK: Position Value: 935, Unrealized PnL: -69
+
+
+### FEED COMPLETE ###
+2024-10-22 16:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 912
+Total Notional Position: 2,997
+Cross Maintenance Margin Used: 98
+Withdrawable: 716
+
+SOL: Position Value: 1,140, Unrealized PnL: 144
+kPEPE: Position Value: 933, Unrealized PnL: -69
+kBONK: Position Value: 924, Unrealized PnL: -80
+
+
+### FEED COMPLETE ###
+2024-10-22 17:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 873
+Total Notional Position: 2,959
+Cross Maintenance Margin Used: 97
+Withdrawable: 680
+
+SOL: Position Value: 1,130, Unrealized PnL: 135
+kPEPE: Position Value: 921, Unrealized PnL: -80
+kBONK: Position Value: 907, Unrealized PnL: -97
+
+
+### FEED COMPLETE ###
+2024-10-22 18:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 907
+Total Notional Position: 2,993
+Cross Maintenance Margin Used: 98
+Withdrawable: 712
+
+SOL: Position Value: 1,139, Unrealized PnL: 143
+kPEPE: Position Value: 933, Unrealized PnL: -68
+kBONK: Position Value: 920, Unrealized PnL: -84
+
+
+### FEED COMPLETE ###
+2024-10-22 19:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 907
+Total Notional Position: 2,993
+Cross Maintenance Margin Used: 98
+Withdrawable: 712
+
+SOL: Position Value: 1,143, Unrealized PnL: 147
+kPEPE: Position Value: 932, Unrealized PnL: -70
+kBONK: Position Value: 918, Unrealized PnL: -86
+
+
+### FEED COMPLETE ###
+2024-10-22 20:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 914
+Total Notional Position: 2,999
+Cross Maintenance Margin Used: 98
+Withdrawable: 718
+
+SOL: Position Value: 1,146, Unrealized PnL: 150
+kPEPE: Position Value: 934, Unrealized PnL: -67
+kBONK: Position Value: 919, Unrealized PnL: -85
+
+
+### FEED COMPLETE ###
+2024-10-22 21:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 920
+Total Notional Position: 3,006
+Cross Maintenance Margin Used: 98
+Withdrawable: 723
+
+SOL: Position Value: 1,145, Unrealized PnL: 149
+kPEPE: Position Value: 938, Unrealized PnL: -63
+kBONK: Position Value: 922, Unrealized PnL: -82
+
+
+### FEED COMPLETE ###
+2024-10-22 22:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 910
+Total Notional Position: 2,995
+Cross Maintenance Margin Used: 98
+Withdrawable: 714
+
+SOL: Position Value: 1,140, Unrealized PnL: 144
+kPEPE: Position Value: 936, Unrealized PnL: -66
+kBONK: Position Value: 920, Unrealized PnL: -84
+
+
+### FEED COMPLETE ###
+2024-10-22 23:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 932
+Total Notional Position: 3,018
+Cross Maintenance Margin Used: 99
+Withdrawable: 735
+
+SOL: Position Value: 1,150, Unrealized PnL: 154
+kPEPE: Position Value: 941, Unrealized PnL: -61
+kBONK: Position Value: 926, Unrealized PnL: -77
+
+
+### FEED COMPLETE ###
+2024-10-23 00:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 912
+Total Notional Position: 2,998
+Cross Maintenance Margin Used: 98
+Withdrawable: 716
+
+SOL: Position Value: 1,141, Unrealized PnL: 145
+kPEPE: Position Value: 938, Unrealized PnL: -64
+kBONK: Position Value: 919, Unrealized PnL: -85
+
+
+### FEED COMPLETE ###
+2024-10-23 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 891
+Total Notional Position: 2,977
+Cross Maintenance Margin Used: 97
+Withdrawable: 696
+
+SOL: Position Value: 1,133, Unrealized PnL: 137
+kPEPE: Position Value: 933, Unrealized PnL: -69
+kBONK: Position Value: 911, Unrealized PnL: -93
+
+
+### FEED COMPLETE ###
+2024-10-23 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 899
+Total Notional Position: 2,985
+Cross Maintenance Margin Used: 97
+Withdrawable: 704
+
+SOL: Position Value: 1,139, Unrealized PnL: 143
+kPEPE: Position Value: 934, Unrealized PnL: -67
+kBONK: Position Value: 911, Unrealized PnL: -93
+
+
+### FEED COMPLETE ###
+2024-10-23 03:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
+### POSITION FEED ###
+
+
+Account Value: 870
+Total Notional Position: 2,956
+Cross Maintenance Margin Used: 96
+Withdrawable: 677
+
+SOL: Position Value: 1,128, Unrealized PnL: 132
+kPEPE: Position Value: 925, Unrealized PnL: -77
+kBONK: Position Value: 903, Unrealized PnL: -101
+
+
+### FEED COMPLETE ###
