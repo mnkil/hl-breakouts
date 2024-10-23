@@ -1,39 +1,39 @@
-2024-10-23 03:13:03: bomy package import done...
-{'marginSummary': {'accountValue': '874.186808', 'totalNtlPos': '2960.18076', 'totalRawUsd': '-2085.993952', 'totalMarginUsed': '193.16241'}, 'crossMarginSummary': {'accountValue': '874.186808', 'totalNtlPos': '2960.18076', 'totalRawUsd': '-2085.993952', 'totalMarginUsed': '193.16241'}, 'crossMaintenanceMarginUsed': '96.581204', 'withdrawable': '681.024398', 'assetPositions': [{'type': 'oneWay', 'position': {'coin': 'SOL', 'szi': '6.8', 'leverage': {'type': 'cross', 'value': 20}, 'entryPx': '146.45', 'positionValue': '1130.772', 'unrealizedPnl': '134.912', 'returnOnEquity': '2.70945715', 'liquidationPx': '49.00408688', 'marginUsed': '56.5386', 'maxLeverage': 20, 'cumFunding': {'allTime': '7.637858', 'sinceOpen': '7.534352', 'sinceChange': '7.534352'}}}, {'type': 'oneWay', 'position': {'coin': 'kPEPE', 'szi': '92764.0', 'leverage': {'type': 'cross', 'value': 20}, 'entryPx': '0.010799', 'positionValue': '926.341304', 'unrealizedPnl': '-75.417132', 'returnOnEquity': '-1.50569497', 'liquidationPx': '0.00138844', 'marginUsed': '46.317065', 'maxLeverage': 20, 'cumFunding': {'allTime': '44.795344', 'sinceOpen': '1.843983', 'sinceChange': '1.843983'}}}, {'type': 'oneWay', 'position': {'coin': 'kBONK', 'szi': '40258.0', 'leverage': {'type': 'cross', 'value': 10}, 'entryPx': '0.024938', 'positionValue': '903.067456', 'unrealizedPnl': '-100.901769', 'returnOnEquity': '-1.00502851', 'liquidationPx': '0.00209984', 'marginUsed': '90.306745', 'maxLeverage': 10, 'cumFunding': {'allTime': '6.207132', 'sinceOpen': '1.386713', 'sinceChange': '1.386713'}}}], 'time': 1729653184180}
+2024-10-23 03:14:02: bomy package import done...
+{'marginSummary': {'accountValue': '869.93275', 'totalNtlPos': '2955.926702', 'totalRawUsd': '-2085.993952', 'totalMarginUsed': '192.855101'}, 'crossMarginSummary': {'accountValue': '869.93275', 'totalNtlPos': '2955.926702', 'totalRawUsd': '-2085.993952', 'totalMarginUsed': '192.855101'}, 'crossMaintenanceMarginUsed': '96.42755', 'withdrawable': '677.077649', 'assetPositions': [{'type': 'oneWay', 'position': {'coin': 'SOL', 'szi': '6.8', 'leverage': {'type': 'cross', 'value': 20}, 'entryPx': '146.45', 'positionValue': '1129.616', 'unrealizedPnl': '133.756', 'returnOnEquity': '2.68624104', 'liquidationPx': '49.45254902', 'marginUsed': '56.4808', 'maxLeverage': 20, 'cumFunding': {'allTime': '7.637858', 'sinceOpen': '7.534352', 'sinceChange': '7.534352'}}}, {'type': 'oneWay', 'position': {'coin': 'kPEPE', 'szi': '92764.0', 'leverage': {'type': 'cross', 'value': 20}, 'entryPx': '0.010799', 'positionValue': '925.135372', 'unrealizedPnl': '-76.623064', 'returnOnEquity': '-1.52977128', 'liquidationPx': '0.00142077', 'marginUsed': '46.256768', 'maxLeverage': 20, 'cumFunding': {'allTime': '44.795344', 'sinceOpen': '1.843983', 'sinceChange': '1.843983'}}}, {'type': 'oneWay', 'position': {'coin': 'kBONK', 'szi': '40258.0', 'leverage': {'type': 'cross', 'value': 10}, 'entryPx': '0.024938', 'positionValue': '901.17533', 'unrealizedPnl': '-102.793895', 'returnOnEquity': '-1.02387496', 'liquidationPx': '0.00216005', 'marginUsed': '90.117533', 'maxLeverage': 10, 'cumFunding': {'allTime': '6.207132', 'sinceOpen': '1.386713', 'sinceChange': '1.386713'}}}], 'time': 1729653243428}
 tickers: ['PEPEUSDT', 'WIFUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT']
 ### BREAKOUT SCREENER ###
 
 
-2024-10-23 03:13:04:
+2024-10-23 03:14:04:
 Ticker: PEPEUSDT, Current price: 0.00000997, Price in DB: 0.00000996, DB px close ts: 2024-10-23 03:59:59.999000, %-diff: 0.10%, Donchian Channel High: 0.00001079, Donchian Channel Mid: 0.00001036, Donchian Channel Low: 0.00000993, Donchian Rank: 0.05
 monitor_trailing start
 monitor_trailing end
 ### NO BREAKOUT ###
 
 
-2024-10-23 03:13:05:
+2024-10-23 03:14:04:
 Ticker: WIFUSDT, Current price: 2.40800000, Price in DB: 2.40300000, DB px close ts: 2024-10-23 03:59:59.999000, %-diff: 0.21%, Donchian Channel High: 2.73000000, Donchian Channel Mid: 2.55800000, Donchian Channel Low: 2.38600000, Donchian Rank: 0.06
 monitor_trailing start
 monitor_trailing end
 ### NO BREAKOUT ###
 
 
-2024-10-23 03:13:05:
-Ticker: SOLUSDT, Current price: 166.13000000, Price in DB: 165.85000000, DB px close ts: 2024-10-23 03:59:59.999000, %-diff: 0.17%, Donchian Channel High: 170.86000000, Donchian Channel Mid: 162.44000000, Donchian Channel Low: 154.02000000, Donchian Rank: 0.72
+2024-10-23 03:14:04:
+Ticker: SOLUSDT, Current price: 166.03000000, Price in DB: 165.85000000, DB px close ts: 2024-10-23 03:59:59.999000, %-diff: 0.11%, Donchian Channel High: 170.86000000, Donchian Channel Mid: 162.44000000, Donchian Channel Low: 154.02000000, Donchian Rank: 0.71
 monitor_trailing start
 monitor_trailing end
 ### NO BREAKOUT ###
 
 
-2024-10-23 03:13:05:
-Ticker: BONKUSDT, Current price: 0.00002242, Price in DB: 0.00002244, DB px close ts: 2024-10-23 03:59:59.999000, %-diff: -0.09%, Donchian Channel High: 0.00002480, Donchian Channel Mid: 0.00002362, Donchian Channel Low: 0.00002244, Donchian Rank: -0.01
+2024-10-23 03:14:04:
+Ticker: BONKUSDT, Current price: 0.00002237, Price in DB: 0.00002244, DB px close ts: 2024-10-23 03:59:59.999000, %-diff: -0.31%, Donchian Channel High: 0.00002480, Donchian Channel Mid: 0.00002362, Donchian Channel Low: 0.00002244, Donchian Rank: -0.03
 monitor_trailing start
 monitor_trailing end
 ### NO BREAKOUT ###
 
 
-2024-10-23 03:13:06:
-Ticker: SUIUSDT, Current price: 1.92870000, Price in DB: 1.92190000, DB px close ts: 2024-10-23 03:59:59.999000, %-diff: 0.35%, Donchian Channel High: 2.15040000, Donchian Channel Mid: 2.02310000, Donchian Channel Low: 1.89580000, Donchian Rank: 0.13
+2024-10-23 03:14:05:
+Ticker: SUIUSDT, Current price: 1.92930000, Price in DB: 1.92190000, DB px close ts: 2024-10-23 03:59:59.999000, %-diff: 0.39%, Donchian Channel High: 2.15040000, Donchian Channel Mid: 2.02310000, Donchian Channel Low: 1.89580000, Donchian Rank: 0.13
 monitor_trailing start
 monitor_trailing end
 ### NO BREAKOUT ###
