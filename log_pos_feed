@@ -16550,3 +16550,1253 @@ SOL: Position Value: 1,395, Unrealized PnL: 389
 
 
 ### FEED COMPLETE ###
+2024-11-20 20:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,394
+Total Notional Position: 2,341
+Cross Maintenance Margin Used: 44
+Withdrawable: 2,277
+
+ETH: Position Value: 947, Unrealized PnL: -50
+SOL: Position Value: 1,394, Unrealized PnL: 388
+
+
+### FEED COMPLETE ###
+2024-11-20 21:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,419
+Total Notional Position: 2,366
+Cross Maintenance Margin Used: 45
+Withdrawable: 2,301
+
+ETH: Position Value: 954, Unrealized PnL: -43
+SOL: Position Value: 1,412, Unrealized PnL: 406
+
+
+### FEED COMPLETE ###
+2024-11-20 22:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,431
+Total Notional Position: 2,377
+Cross Maintenance Margin Used: 45
+Withdrawable: 2,312
+
+ETH: Position Value: 956, Unrealized PnL: -41
+SOL: Position Value: 1,421, Unrealized PnL: 415
+
+
+### FEED COMPLETE ###
+2024-11-20 23:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,428
+Total Notional Position: 2,374
+Cross Maintenance Margin Used: 45
+Withdrawable: 2,309
+
+ETH: Position Value: 954, Unrealized PnL: -43
+SOL: Position Value: 1,421, Unrealized PnL: 415
+
+
+### FEED COMPLETE ###
+2024-11-21 00:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,415
+Total Notional Position: 2,362
+Cross Maintenance Margin Used: 45
+Withdrawable: 2,297
+
+ETH: Position Value: 951, Unrealized PnL: -46
+SOL: Position Value: 1,411, Unrealized PnL: 405
+
+
+### FEED COMPLETE ###
+2024-11-21 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,437
+Total Notional Position: 2,384
+Cross Maintenance Margin Used: 45
+Withdrawable: 2,318
+
+ETH: Position Value: 956, Unrealized PnL: -41
+SOL: Position Value: 1,427, Unrealized PnL: 422
+
+
+### FEED COMPLETE ###
+2024-11-21 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,423
+Total Notional Position: 2,369
+Cross Maintenance Margin Used: 45
+Withdrawable: 2,304
+
+ETH: Position Value: 954, Unrealized PnL: -43
+SOL: Position Value: 1,416, Unrealized PnL: 410
+
+
+### FEED COMPLETE ###
+2024-11-21 03:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,396
+Total Notional Position: 2,343
+Cross Maintenance Margin Used: 44
+Withdrawable: 2,279
+
+ETH: Position Value: 949, Unrealized PnL: -48
+SOL: Position Value: 1,394, Unrealized PnL: 388
+
+
+### FEED COMPLETE ###
+2024-11-21 04:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,428
+Total Notional Position: 2,374
+Cross Maintenance Margin Used: 45
+Withdrawable: 2,309
+
+ETH: Position Value: 956, Unrealized PnL: -40
+SOL: Position Value: 1,418, Unrealized PnL: 412
+
+
+### FEED COMPLETE ###
+2024-11-21 05:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,471
+Total Notional Position: 2,418
+Cross Maintenance Margin Used: 46
+Withdrawable: 2,350
+
+ETH: Position Value: 972, Unrealized PnL: -25
+SOL: Position Value: 1,446, Unrealized PnL: 440
+
+
+### FEED COMPLETE ###
+2024-11-21 06:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,450
+Total Notional Position: 2,397
+Cross Maintenance Margin Used: 45
+Withdrawable: 2,330
+
+ETH: Position Value: 963, Unrealized PnL: -34
+SOL: Position Value: 1,434, Unrealized PnL: 428
+
+
+### FEED COMPLETE ###
+2024-11-21 07:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,456
+Total Notional Position: 2,403
+Cross Maintenance Margin Used: 46
+Withdrawable: 2,336
+
+ETH: Position Value: 969, Unrealized PnL: -27
+SOL: Position Value: 1,434, Unrealized PnL: 428
+
+
+### FEED COMPLETE ###
+2024-11-21 08:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,483
+Total Notional Position: 2,431
+Cross Maintenance Margin Used: 46
+Withdrawable: 2,362
+
+ETH: Position Value: 975, Unrealized PnL: -22
+SOL: Position Value: 1,456, Unrealized PnL: 450
+
+
+### FEED COMPLETE ###
+2024-11-21 09:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,481
+Total Notional Position: 2,428
+Cross Maintenance Margin Used: 46
+Withdrawable: 2,360
+
+ETH: Position Value: 975, Unrealized PnL: -22
+SOL: Position Value: 1,454, Unrealized PnL: 448
+
+
+### FEED COMPLETE ###
+2024-11-21 10:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,473
+Total Notional Position: 2,420
+Cross Maintenance Margin Used: 46
+Withdrawable: 2,352
+
+ETH: Position Value: 969, Unrealized PnL: -28
+SOL: Position Value: 1,451, Unrealized PnL: 445
+
+
+### FEED COMPLETE ###
+2024-11-21 11:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,476
+Total Notional Position: 2,424
+Cross Maintenance Margin Used: 46
+Withdrawable: 2,355
+
+ETH: Position Value: 971, Unrealized PnL: -26
+SOL: Position Value: 1,453, Unrealized PnL: 447
+
+
+### FEED COMPLETE ###
+2024-11-21 12:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,473
+Total Notional Position: 2,421
+Cross Maintenance Margin Used: 46
+Withdrawable: 2,352
+
+ETH: Position Value: 978, Unrealized PnL: -19
+SOL: Position Value: 1,443, Unrealized PnL: 437
+
+
+### FEED COMPLETE ###
+2024-11-21 13:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,538
+Total Notional Position: 2,486
+Cross Maintenance Margin Used: 47
+Withdrawable: 2,414
+
+ETH: Position Value: 1,025, Unrealized PnL: 28
+SOL: Position Value: 1,461, Unrealized PnL: 455
+
+
+### FEED COMPLETE ###
+2024-11-21 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,558
+Total Notional Position: 2,506
+Cross Maintenance Margin Used: 47
+Withdrawable: 2,433
+
+ETH: Position Value: 1,037, Unrealized PnL: 40
+SOL: Position Value: 1,469, Unrealized PnL: 463
+
+
+### FEED COMPLETE ###
+2024-11-21 15:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,590
+Total Notional Position: 2,538
+Cross Maintenance Margin Used: 48
+Withdrawable: 2,464
+
+ETH: Position Value: 1,033, Unrealized PnL: 36
+SOL: Position Value: 1,505, Unrealized PnL: 499
+
+
+### FEED COMPLETE ###
+2024-11-21 16:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,573
+Total Notional Position: 2,521
+Cross Maintenance Margin Used: 48
+Withdrawable: 2,447
+
+ETH: Position Value: 1,021, Unrealized PnL: 24
+SOL: Position Value: 1,500, Unrealized PnL: 494
+
+
+### FEED COMPLETE ###
+2024-11-21 17:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,612
+Total Notional Position: 2,560
+Cross Maintenance Margin Used: 49
+Withdrawable: 2,484
+
+ETH: Position Value: 1,033, Unrealized PnL: 36
+SOL: Position Value: 1,528, Unrealized PnL: 522
+
+
+### FEED COMPLETE ###
+2024-11-21 18:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,643
+Total Notional Position: 2,591
+Cross Maintenance Margin Used: 49
+Withdrawable: 2,513
+
+ETH: Position Value: 1,041, Unrealized PnL: 45
+SOL: Position Value: 1,550, Unrealized PnL: 544
+
+
+### FEED COMPLETE ###
+2024-11-21 19:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,650
+Total Notional Position: 2,598
+Cross Maintenance Margin Used: 49
+Withdrawable: 2,520
+
+ETH: Position Value: 1,049, Unrealized PnL: 52
+SOL: Position Value: 1,550, Unrealized PnL: 544
+
+
+### FEED COMPLETE ###
+2024-11-21 20:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,617
+Total Notional Position: 2,566
+Cross Maintenance Margin Used: 49
+Withdrawable: 2,489
+
+ETH: Position Value: 1,039, Unrealized PnL: 42
+SOL: Position Value: 1,527, Unrealized PnL: 521
+
+
+### FEED COMPLETE ###
+2024-11-21 21:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,615
+Total Notional Position: 2,563
+Cross Maintenance Margin Used: 49
+Withdrawable: 2,486
+
+ETH: Position Value: 1,039, Unrealized PnL: 42
+SOL: Position Value: 1,525, Unrealized PnL: 519
+
+
+### FEED COMPLETE ###
+2024-11-21 22:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,613
+Total Notional Position: 2,562
+Cross Maintenance Margin Used: 48
+Withdrawable: 2,485
+
+ETH: Position Value: 1,039, Unrealized PnL: 42
+SOL: Position Value: 1,523, Unrealized PnL: 517
+
+
+### FEED COMPLETE ###
+2024-11-21 23:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,630
+Total Notional Position: 2,579
+Cross Maintenance Margin Used: 49
+Withdrawable: 2,501
+
+ETH: Position Value: 1,046, Unrealized PnL: 49
+SOL: Position Value: 1,533, Unrealized PnL: 527
+
+
+### FEED COMPLETE ###
+2024-11-22 00:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,634
+Total Notional Position: 2,584
+Cross Maintenance Margin Used: 49
+Withdrawable: 2,505
+
+ETH: Position Value: 1,042, Unrealized PnL: 45
+SOL: Position Value: 1,542, Unrealized PnL: 536
+
+
+### FEED COMPLETE ###
+2024-11-22 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,598
+Total Notional Position: 2,548
+Cross Maintenance Margin Used: 48
+Withdrawable: 2,471
+
+ETH: Position Value: 1,026, Unrealized PnL: 29
+SOL: Position Value: 1,522, Unrealized PnL: 516
+
+
+### FEED COMPLETE ###
+2024-11-22 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,617
+Total Notional Position: 2,566
+Cross Maintenance Margin Used: 49
+Withdrawable: 2,488
+
+ETH: Position Value: 1,031, Unrealized PnL: 34
+SOL: Position Value: 1,535, Unrealized PnL: 529
+
+
+### FEED COMPLETE ###
+2024-11-22 03:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,631
+Total Notional Position: 2,581
+Cross Maintenance Margin Used: 49
+Withdrawable: 2,502
+
+ETH: Position Value: 1,032, Unrealized PnL: 36
+SOL: Position Value: 1,549, Unrealized PnL: 543
+
+
+### FEED COMPLETE ###
+2024-11-22 04:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,671
+Total Notional Position: 2,621
+Cross Maintenance Margin Used: 50
+Withdrawable: 2,540
+
+ETH: Position Value: 1,045, Unrealized PnL: 48
+SOL: Position Value: 1,576, Unrealized PnL: 570
+
+
+### FEED COMPLETE ###
+2024-11-22 05:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,661
+Total Notional Position: 2,611
+Cross Maintenance Margin Used: 50
+Withdrawable: 2,530
+
+ETH: Position Value: 1,049, Unrealized PnL: 53
+SOL: Position Value: 1,562, Unrealized PnL: 556
+
+
+### FEED COMPLETE ###
+2024-11-22 06:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,665
+Total Notional Position: 2,615
+Cross Maintenance Margin Used: 50
+Withdrawable: 2,534
+
+ETH: Position Value: 1,048, Unrealized PnL: 52
+SOL: Position Value: 1,567, Unrealized PnL: 561
+
+
+### FEED COMPLETE ###
+2024-11-22 07:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,650
+Total Notional Position: 2,601
+Cross Maintenance Margin Used: 49
+Withdrawable: 2,520
+
+ETH: Position Value: 1,046, Unrealized PnL: 49
+SOL: Position Value: 1,555, Unrealized PnL: 549
+
+
+### FEED COMPLETE ###
+2024-11-22 08:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,653
+Total Notional Position: 2,604
+Cross Maintenance Margin Used: 49
+Withdrawable: 2,523
+
+ETH: Position Value: 1,045, Unrealized PnL: 48
+SOL: Position Value: 1,559, Unrealized PnL: 553
+
+
+### FEED COMPLETE ###
+2024-11-22 09:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,654
+Total Notional Position: 2,605
+Cross Maintenance Margin Used: 49
+Withdrawable: 2,523
+
+ETH: Position Value: 1,046, Unrealized PnL: 49
+SOL: Position Value: 1,559, Unrealized PnL: 553
+
+
+### FEED COMPLETE ###
+2024-11-22 10:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,646
+Total Notional Position: 2,597
+Cross Maintenance Margin Used: 49
+Withdrawable: 2,516
+
+ETH: Position Value: 1,045, Unrealized PnL: 48
+SOL: Position Value: 1,553, Unrealized PnL: 547
+
+
+### FEED COMPLETE ###
+2024-11-22 11:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,619
+Total Notional Position: 2,571
+Cross Maintenance Margin Used: 49
+Withdrawable: 2,491
+
+ETH: Position Value: 1,029, Unrealized PnL: 32
+SOL: Position Value: 1,542, Unrealized PnL: 536
+
+
+### FEED COMPLETE ###
+2024-11-22 12:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,643
+Total Notional Position: 2,595
+Cross Maintenance Margin Used: 49
+Withdrawable: 2,513
+
+ETH: Position Value: 1,038, Unrealized PnL: 41
+SOL: Position Value: 1,557, Unrealized PnL: 551
+
+
+### FEED COMPLETE ###
+2024-11-22 13:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,643
+Total Notional Position: 2,594
+Cross Maintenance Margin Used: 49
+Withdrawable: 2,513
+
+ETH: Position Value: 1,037, Unrealized PnL: 40
+SOL: Position Value: 1,557, Unrealized PnL: 551
+
+
+### FEED COMPLETE ###
+2024-11-22 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,552
+Total Notional Position: 3,505
+Cross Maintenance Margin Used: 72
+Withdrawable: 2,376
+
+ETH: Position Value: 1,020, Unrealized PnL: 23
+SOL: Position Value: 1,532, Unrealized PnL: 526
+DOGE: Position Value: 954, Unrealized PnL: -47
+
+
+### FEED COMPLETE ###
+2024-11-22 15:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,545
+Total Notional Position: 3,499
+Cross Maintenance Margin Used: 72
+Withdrawable: 2,370
+
+ETH: Position Value: 1,022, Unrealized PnL: 25
+SOL: Position Value: 1,525, Unrealized PnL: 519
+DOGE: Position Value: 952, Unrealized PnL: -49
+
+
+### FEED COMPLETE ###
+2024-11-22 16:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,570
+Total Notional Position: 3,524
+Cross Maintenance Margin Used: 73
+Withdrawable: 2,394
+
+ETH: Position Value: 1,027, Unrealized PnL: 30
+SOL: Position Value: 1,532, Unrealized PnL: 526
+DOGE: Position Value: 965, Unrealized PnL: -36
+
+
+### FEED COMPLETE ###
+2024-11-22 17:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,584
+Total Notional Position: 3,538
+Cross Maintenance Margin Used: 73
+Withdrawable: 2,407
+
+ETH: Position Value: 1,027, Unrealized PnL: 30
+SOL: Position Value: 1,530, Unrealized PnL: 524
+DOGE: Position Value: 982, Unrealized PnL: -19
+
+
+### FEED COMPLETE ###
+2024-11-22 18:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,572
+Total Notional Position: 3,526
+Cross Maintenance Margin Used: 73
+Withdrawable: 2,395
+
+ETH: Position Value: 1,024, Unrealized PnL: 27
+SOL: Position Value: 1,525, Unrealized PnL: 519
+DOGE: Position Value: 977, Unrealized PnL: -24
+
+
+### FEED COMPLETE ###
+2024-11-22 19:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,555
+Total Notional Position: 3,510
+Cross Maintenance Margin Used: 72
+Withdrawable: 2,380
+
+ETH: Position Value: 1,021, Unrealized PnL: 24
+SOL: Position Value: 1,526, Unrealized PnL: 520
+DOGE: Position Value: 963, Unrealized PnL: -38
+
+
+### FEED COMPLETE ###
+2024-11-22 20:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,550
+Total Notional Position: 3,505
+Cross Maintenance Margin Used: 72
+Withdrawable: 2,375
+
+ETH: Position Value: 1,018, Unrealized PnL: 21
+SOL: Position Value: 1,527, Unrealized PnL: 521
+DOGE: Position Value: 961, Unrealized PnL: -40
+
+
+### FEED COMPLETE ###
+2024-11-22 21:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,560
+Total Notional Position: 3,515
+Cross Maintenance Margin Used: 73
+Withdrawable: 2,384
+
+ETH: Position Value: 1,020, Unrealized PnL: 23
+SOL: Position Value: 1,529, Unrealized PnL: 523
+DOGE: Position Value: 966, Unrealized PnL: -35
+
+
+### FEED COMPLETE ###
+2024-11-22 22:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,610
+Total Notional Position: 3,565
+Cross Maintenance Margin Used: 74
+Withdrawable: 2,431
+
+ETH: Position Value: 1,028, Unrealized PnL: 31
+SOL: Position Value: 1,544, Unrealized PnL: 538
+DOGE: Position Value: 993, Unrealized PnL: -8
+
+
+### FEED COMPLETE ###
+2024-11-22 23:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,600
+Total Notional Position: 3,556
+Cross Maintenance Margin Used: 73
+Withdrawable: 2,423
+
+ETH: Position Value: 1,028, Unrealized PnL: 32
+SOL: Position Value: 1,533, Unrealized PnL: 528
+DOGE: Position Value: 995, Unrealized PnL: -6
+
+
+### FEED COMPLETE ###
+2024-11-23 00:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,612
+Total Notional Position: 3,568
+Cross Maintenance Margin Used: 74
+Withdrawable: 2,433
+
+ETH: Position Value: 1,032, Unrealized PnL: 35
+SOL: Position Value: 1,542, Unrealized PnL: 536
+DOGE: Position Value: 995, Unrealized PnL: -6
+
+
+### FEED COMPLETE ###
+2024-11-23 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,607
+Total Notional Position: 3,564
+Cross Maintenance Margin Used: 74
+Withdrawable: 2,429
+
+ETH: Position Value: 1,038, Unrealized PnL: 41
+SOL: Position Value: 1,537, Unrealized PnL: 531
+DOGE: Position Value: 989, Unrealized PnL: -12
+
+
+### FEED COMPLETE ###
+2024-11-23 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,602
+Total Notional Position: 3,559
+Cross Maintenance Margin Used: 73
+Withdrawable: 2,424
+
+ETH: Position Value: 1,037, Unrealized PnL: 40
+SOL: Position Value: 1,538, Unrealized PnL: 532
+DOGE: Position Value: 983, Unrealized PnL: -18
+
+
+### FEED COMPLETE ###
+2024-11-23 03:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,636
+Total Notional Position: 3,594
+Cross Maintenance Margin Used: 74
+Withdrawable: 2,457
+
+ETH: Position Value: 1,033, Unrealized PnL: 36
+SOL: Position Value: 1,526, Unrealized PnL: 520
+DOGE: Position Value: 1,035, Unrealized PnL: 34
+
+
+### FEED COMPLETE ###
+2024-11-23 04:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,681
+Total Notional Position: 3,639
+Cross Maintenance Margin Used: 75
+Withdrawable: 2,499
+
+ETH: Position Value: 1,038, Unrealized PnL: 41
+SOL: Position Value: 1,545, Unrealized PnL: 539
+DOGE: Position Value: 1,056, Unrealized PnL: 55
+
+
+### FEED COMPLETE ###
+2024-11-23 05:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,757
+Total Notional Position: 4,719
+Cross Maintenance Margin Used: 102
+Withdrawable: 2,521
+
+ETH: Position Value: 1,041, Unrealized PnL: 44
+SOL: Position Value: 1,578, Unrealized PnL: 572
+DOGE: Position Value: 1,102, Unrealized PnL: 101
+kPEPE: Position Value: 999, Unrealized PnL: -5
+
+
+### FEED COMPLETE ###
+2024-11-23 06:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,750
+Total Notional Position: 4,714
+Cross Maintenance Margin Used: 102
+Withdrawable: 2,515
+
+ETH: Position Value: 1,038, Unrealized PnL: 41
+SOL: Position Value: 1,558, Unrealized PnL: 552
+DOGE: Position Value: 1,116, Unrealized PnL: 115
+kPEPE: Position Value: 1,002, Unrealized PnL: -2
+
+
+### FEED COMPLETE ###
+2024-11-23 07:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,754
+Total Notional Position: 4,717
+Cross Maintenance Margin Used: 102
+Withdrawable: 2,518
+
+ETH: Position Value: 1,039, Unrealized PnL: 42
+SOL: Position Value: 1,557, Unrealized PnL: 551
+DOGE: Position Value: 1,123, Unrealized PnL: 122
+kPEPE: Position Value: 999, Unrealized PnL: -5
+
+
+### FEED COMPLETE ###
+2024-11-23 08:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,723
+Total Notional Position: 4,687
+Cross Maintenance Margin Used: 102
+Withdrawable: 2,488
+
+ETH: Position Value: 1,037, Unrealized PnL: 40
+SOL: Position Value: 1,552, Unrealized PnL: 546
+DOGE: Position Value: 1,109, Unrealized PnL: 108
+kPEPE: Position Value: 989, Unrealized PnL: -14
+
+
+### FEED COMPLETE ###
+2024-11-23 09:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,736
+Total Notional Position: 4,701
+Cross Maintenance Margin Used: 102
+Withdrawable: 2,501
+
+ETH: Position Value: 1,046, Unrealized PnL: 49
+SOL: Position Value: 1,550, Unrealized PnL: 544
+DOGE: Position Value: 1,106, Unrealized PnL: 105
+kPEPE: Position Value: 1,000, Unrealized PnL: -4
+
+
+### FEED COMPLETE ###
+2024-11-23 10:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,770
+Total Notional Position: 4,735
+Cross Maintenance Margin Used: 103
+Withdrawable: 2,533
+
+ETH: Position Value: 1,042, Unrealized PnL: 45
+SOL: Position Value: 1,550, Unrealized PnL: 544
+DOGE: Position Value: 1,123, Unrealized PnL: 122
+kPEPE: Position Value: 1,020, Unrealized PnL: 17
+
+
+### FEED COMPLETE ###
+2024-11-23 11:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,775
+Total Notional Position: 4,741
+Cross Maintenance Margin Used: 103
+Withdrawable: 2,538
+
+ETH: Position Value: 1,039, Unrealized PnL: 42
+SOL: Position Value: 1,542, Unrealized PnL: 536
+DOGE: Position Value: 1,139, Unrealized PnL: 138
+kPEPE: Position Value: 1,021, Unrealized PnL: 17
+
+
+### FEED COMPLETE ###
+2024-11-23 12:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,740
+Total Notional Position: 4,706
+Cross Maintenance Margin Used: 102
+Withdrawable: 2,504
+
+ETH: Position Value: 1,040, Unrealized PnL: 44
+SOL: Position Value: 1,537, Unrealized PnL: 531
+DOGE: Position Value: 1,126, Unrealized PnL: 125
+kPEPE: Position Value: 1,002, Unrealized PnL: -2
+
+
+### FEED COMPLETE ###
+2024-11-23 13:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,773
+Total Notional Position: 4,741
+Cross Maintenance Margin Used: 103
+Withdrawable: 2,536
+
+ETH: Position Value: 1,053, Unrealized PnL: 56
+SOL: Position Value: 1,547, Unrealized PnL: 541
+DOGE: Position Value: 1,124, Unrealized PnL: 123
+kPEPE: Position Value: 1,017, Unrealized PnL: 13
+
+
+### FEED COMPLETE ###
+2024-11-23 14:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,792
+Total Notional Position: 4,760
+Cross Maintenance Margin Used: 103
+Withdrawable: 2,554
+
+ETH: Position Value: 1,068, Unrealized PnL: 71
+SOL: Position Value: 1,557, Unrealized PnL: 551
+DOGE: Position Value: 1,120, Unrealized PnL: 119
+kPEPE: Position Value: 1,014, Unrealized PnL: 10
+
+
+### FEED COMPLETE ###
+2024-11-23 15:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,840
+Total Notional Position: 4,809
+Cross Maintenance Margin Used: 104
+Withdrawable: 2,600
+
+ETH: Position Value: 1,078, Unrealized PnL: 81
+SOL: Position Value: 1,582, Unrealized PnL: 576
+DOGE: Position Value: 1,120, Unrealized PnL: 119
+kPEPE: Position Value: 1,030, Unrealized PnL: 26
+
+
+### FEED COMPLETE ###
+2024-11-23 16:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,778
+Total Notional Position: 4,747
+Cross Maintenance Margin Used: 103
+Withdrawable: 2,540
+
+ETH: Position Value: 1,075, Unrealized PnL: 79
+SOL: Position Value: 1,561, Unrealized PnL: 555
+DOGE: Position Value: 1,099, Unrealized PnL: 98
+kPEPE: Position Value: 1,012, Unrealized PnL: 8
+
+
+### FEED COMPLETE ###
+2024-11-23 17:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,602
+Total Notional Position: 3,552
+Cross Maintenance Margin Used: 73
+Withdrawable: 2,424
+
+ETH: Position Value: 1,058, Unrealized PnL: 62
+SOL: Position Value: 1,540, Unrealized PnL: 534
+kPEPE: Position Value: 954, Unrealized PnL: -50
+
+
+### FEED COMPLETE ###
+2024-11-23 18:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,617
+Total Notional Position: 3,568
+Cross Maintenance Margin Used: 73
+Withdrawable: 2,439
+
+ETH: Position Value: 1,061, Unrealized PnL: 64
+SOL: Position Value: 1,541, Unrealized PnL: 536
+kPEPE: Position Value: 966, Unrealized PnL: -38
+
+
+### FEED COMPLETE ###
+2024-11-23 19:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,610
+Total Notional Position: 3,561
+Cross Maintenance Margin Used: 73
+Withdrawable: 2,432
+
+ETH: Position Value: 1,062, Unrealized PnL: 65
+SOL: Position Value: 1,536, Unrealized PnL: 530
+kPEPE: Position Value: 963, Unrealized PnL: -41
+
+
+### FEED COMPLETE ###
+2024-11-23 20:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,582
+Total Notional Position: 3,533
+Cross Maintenance Margin Used: 72
+Withdrawable: 2,406
+
+ETH: Position Value: 1,056, Unrealized PnL: 59
+SOL: Position Value: 1,528, Unrealized PnL: 522
+kPEPE: Position Value: 949, Unrealized PnL: -55
+
+
+### FEED COMPLETE ###
+2024-11-23 21:02:05: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,594
+Total Notional Position: 3,546
+Cross Maintenance Margin Used: 73
+Withdrawable: 2,417
+
+ETH: Position Value: 1,057, Unrealized PnL: 60
+SOL: Position Value: 1,534, Unrealized PnL: 528
+kPEPE: Position Value: 955, Unrealized PnL: -49
+
+
+### FEED COMPLETE ###
+2024-11-23 22:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,612
+Total Notional Position: 3,564
+Cross Maintenance Margin Used: 73
+Withdrawable: 2,434
+
+ETH: Position Value: 1,060, Unrealized PnL: 64
+SOL: Position Value: 1,534, Unrealized PnL: 529
+kPEPE: Position Value: 969, Unrealized PnL: -35
+
+
+### FEED COMPLETE ###
+2024-11-23 23:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,593
+Total Notional Position: 3,545
+Cross Maintenance Margin Used: 73
+Withdrawable: 2,416
+
+ETH: Position Value: 1,056, Unrealized PnL: 59
+SOL: Position Value: 1,529, Unrealized PnL: 523
+kPEPE: Position Value: 960, Unrealized PnL: -43
+
+
+### FEED COMPLETE ###
+2024-11-24 00:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,587
+Total Notional Position: 3,539
+Cross Maintenance Margin Used: 73
+Withdrawable: 2,410
+
+ETH: Position Value: 1,054, Unrealized PnL: 57
+SOL: Position Value: 1,530, Unrealized PnL: 524
+kPEPE: Position Value: 955, Unrealized PnL: -49
+
+
+### FEED COMPLETE ###
+2024-11-24 01:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,635
+Total Notional Position: 3,588
+Cross Maintenance Margin Used: 74
+Withdrawable: 2,456
+
+ETH: Position Value: 1,062, Unrealized PnL: 65
+SOL: Position Value: 1,555, Unrealized PnL: 549
+kPEPE: Position Value: 971, Unrealized PnL: -33
+
+
+### FEED COMPLETE ###
+2024-11-24 02:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,650
+Total Notional Position: 3,602
+Cross Maintenance Margin Used: 74
+Withdrawable: 2,470
+
+ETH: Position Value: 1,065, Unrealized PnL: 68
+SOL: Position Value: 1,553, Unrealized PnL: 547
+kPEPE: Position Value: 984, Unrealized PnL: -19
+
+
+### FEED COMPLETE ###
+2024-11-24 03:02:04: bomy package import done...
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### POSITION FEED ###
+
+
+Account Value: 2,634
+Total Notional Position: 3,587
+Cross Maintenance Margin Used: 74
+Withdrawable: 2,455
+
+ETH: Position Value: 1,063, Unrealized PnL: 67
+SOL: Position Value: 1,549, Unrealized PnL: 543
+kPEPE: Position Value: 974, Unrealized PnL: -29
+
+
+### FEED COMPLETE ###

@@ -1,0 +1,49 @@
+2024-11-24 03:15:02: bomy package import done...
+{'marginSummary': {'accountValue': '2643.15536', 'totalNtlPos': '3596.02312', 'totalRawUsd': '-952.86776', 'totalMarginUsed': '179.801156'}, 'crossMarginSummary': {'accountValue': '2643.15536', 'totalNtlPos': '3596.02312', 'totalRawUsd': '-952.86776', 'totalMarginUsed': '179.801156'}, 'crossMaintenanceMarginUsed': '73.931548', 'withdrawable': '2463.354204', 'assetPositions': [{'type': 'oneWay', 'position': {'coin': 'ETH', 'szi': '0.31', 'leverage': {'type': 'cross', 'value': 20}, 'entryPx': '3215.4', 'positionValue': '1064.602', 'unrealizedPnl': '67.828', 'returnOnEquity': '1.36095043', 'liquidationPx': None, 'marginUsed': '53.2301', 'maxLeverage': 50, 'cumFunding': {'allTime': '277.95685', 'sinceOpen': '7.1823', 'sinceChange': '7.1823'}}}, {'type': 'oneWay', 'position': {'coin': 'SOL', 'szi': '6.0', 'leverage': {'type': 'cross', 'value': 20}, 'entryPx': '167.65', 'positionValue': '1553.52', 'unrealizedPnl': '547.62', 'returnOnEquity': '10.88815986', 'liquidationPx': None, 'marginUsed': '77.676', 'maxLeverage': 20, 'cumFunding': {'allTime': '47.915987', 'sinceOpen': '36.668094', 'sinceChange': '36.668094'}}}, {'type': 'oneWay', 'position': {'coin': 'kPEPE', 'szi': '46620.0', 'leverage': {'type': 'cross', 'value': 20}, 'entryPx': '0.021531', 'positionValue': '977.90112', 'unrealizedPnl': '-25.8741', 'returnOnEquity': '-0.51553574', 'liquidationPx': None, 'marginUsed': '48.895056', 'maxLeverage': 20, 'cumFunding': {'allTime': '72.06368', 'sinceOpen': '3.582508', 'sinceChange': '3.582508'}}}], 'time': 1732418103821}
+tickers: ['PEPEUSDT', 'SOLUSDT', 'BONKUSDT', 'SUIUSDT', 'DOGEUSDT', 'ETHUSDT']
+### BREAKOUT SCREENER ###
+
+
+2024-11-24 03:15:04:
+Ticker: PEPEUSDT, Current price: 0.00002094, Price in DB: 0.00002088, DB px close ts: 2024-11-24 03:59:59.999000, %-diff: 0.29%, Donchian Channel High: 0.00002201, Donchian Channel Mid: 0.00002022, Donchian Channel Low: 0.00001842, Donchian Rank: 0.7
+monitor_trailing start
+monitor_trailing end
+### NO BREAKOUT ###
+
+
+2024-11-24 03:15:04:
+Ticker: SOLUSDT, Current price: 258.68000000, Price in DB: 258.21000000, DB px close ts: 2024-11-24 03:59:59.999000, %-diff: 0.18%, Donchian Channel High: 263.15000000, Donchian Channel Mid: 247.58500000, Donchian Channel Low: 232.02000000, Donchian Rank: 0.86
+monitor_trailing start
+monitor_trailing end
+### NO BREAKOUT ###
+
+
+2024-11-24 03:15:05:
+Ticker: BONKUSDT, Current price: 0.00004911, Price in DB: 0.00004919, DB px close ts: 2024-11-24 03:59:59.999000, %-diff: -0.16%, Donchian Channel High: 0.00005978, Donchian Channel Mid: 0.00005347, Donchian Channel Low: 0.00004716, Donchian Rank: 0.15
+monitor_trailing start
+monitor_trailing end
+### NO BREAKOUT ###
+
+
+2024-11-24 03:15:05:
+Ticker: SUIUSDT, Current price: 3.52710000, Price in DB: 3.52760000, DB px close ts: 2024-11-24 03:59:59.999000, %-diff: -0.01%, Donchian Channel High: 3.81440000, Donchian Channel Mid: 3.61105000, Donchian Channel Low: 3.40770000, Donchian Rank: 0.29
+monitor_trailing start
+monitor_trailing end
+### NO BREAKOUT ###
+
+
+2024-11-24 03:15:05:
+Ticker: DOGEUSDT, Current price: 0.44743000, Price in DB: 0.44477000, DB px close ts: 2024-11-24 03:59:59.999000, %-diff: 0.60%, Donchian Channel High: 0.47455000, Donchian Channel Mid: 0.42282500, Donchian Channel Low: 0.37110000, Donchian Rank: 0.74
+monitor_trailing start
+monitor_trailing end
+### NO BREAKOUT ###
+
+
+2024-11-24 03:15:05:
+Ticker: ETHUSDT, Current price: 3431.00000000, Price in DB: 3427.50000000, DB px close ts: 2024-11-24 03:59:59.999000, %-diff: 0.10%, Donchian Channel High: 3473.60000000, Donchian Channel Mid: 3259.10500000, Donchian Channel Low: 3044.61000000, Donchian Rank: 0.9
+monitor_trailing start
+monitor_trailing end
+### NO BREAKOUT ###
+
+
+...job finished...
