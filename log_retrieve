@@ -1,7 +1,7 @@
-2024-11-24 03:01:04: bomy package import done...
-2024-11-24 03:01:05: bomyPandas init...
-2024-11-24 03:01:05:  <class 'pandas.core.frame.DataFrame'>
-2024-11-24 03:01:05: bomyPandas columns -->
+2024-12-18 19:01:04: bomy package import done...
+2024-12-18 19:01:05: bomyPandas init...
+2024-12-18 19:01:05:  <class 'pandas.core.frame.DataFrame'>
+2024-12-18 19:01:05: bomyPandas columns -->
 ---------------------------------------
 index: int64
 Open Time: datetime64[ns]
@@ -18,13 +18,13 @@ Taker Buy Quote Asset Volume: object
 Ignore: object
 ts_date: datetime64[ns]
 ---------------------------------------
-2024-11-24 03:01:05: bomyPandas done...
-Data updated for PEPEUSDT (1/6)
-Progress: 16.67%
-2024-11-24 03:01:05: Data updated for PEPEUSDT
-2024-11-24 03:01:06: bomyPandas init...
-2024-11-24 03:01:06:  <class 'pandas.core.frame.DataFrame'>
-2024-11-24 03:01:06: bomyPandas columns -->
+2024-12-18 19:01:05: bomyPandas done...
+Data updated for PEPEUSDT (1/11)
+Progress: 9.09%
+2024-12-18 19:01:05: Data updated for PEPEUSDT
+2024-12-18 19:01:06: bomyPandas init...
+2024-12-18 19:01:06:  <class 'pandas.core.frame.DataFrame'>
+2024-12-18 19:01:06: bomyPandas columns -->
 ---------------------------------------
 index: int64
 Open Time: datetime64[ns]
@@ -41,13 +41,13 @@ Taker Buy Quote Asset Volume: object
 Ignore: object
 ts_date: datetime64[ns]
 ---------------------------------------
-2024-11-24 03:01:06: bomyPandas done...
-Data updated for SOLUSDT (2/6)
-Progress: 33.33%
-2024-11-24 03:01:06: Data updated for SOLUSDT
-2024-11-24 03:01:07: bomyPandas init...
-2024-11-24 03:01:07:  <class 'pandas.core.frame.DataFrame'>
-2024-11-24 03:01:07: bomyPandas columns -->
+2024-12-18 19:01:06: bomyPandas done...
+Data updated for WIFUSDT (2/11)
+Progress: 18.18%
+2024-12-18 19:01:06: Data updated for WIFUSDT
+2024-12-18 19:01:07: bomyPandas init...
+2024-12-18 19:01:07:  <class 'pandas.core.frame.DataFrame'>
+2024-12-18 19:01:07: bomyPandas columns -->
 ---------------------------------------
 index: int64
 Open Time: datetime64[ns]
@@ -64,13 +64,13 @@ Taker Buy Quote Asset Volume: object
 Ignore: object
 ts_date: datetime64[ns]
 ---------------------------------------
-2024-11-24 03:01:07: bomyPandas done...
-Data updated for BONKUSDT (3/6)
-Progress: 50.00%
-2024-11-24 03:01:07: Data updated for BONKUSDT
-2024-11-24 03:01:08: bomyPandas init...
-2024-11-24 03:01:08:  <class 'pandas.core.frame.DataFrame'>
-2024-11-24 03:01:08: bomyPandas columns -->
+2024-12-18 19:01:07: bomyPandas done...
+Data updated for SOLUSDT (3/11)
+Progress: 27.27%
+2024-12-18 19:01:07: Data updated for SOLUSDT
+2024-12-18 19:01:07: bomyPandas init...
+2024-12-18 19:01:07:  <class 'pandas.core.frame.DataFrame'>
+2024-12-18 19:01:07: bomyPandas columns -->
 ---------------------------------------
 index: int64
 Open Time: datetime64[ns]
@@ -87,13 +87,13 @@ Taker Buy Quote Asset Volume: object
 Ignore: object
 ts_date: datetime64[ns]
 ---------------------------------------
-2024-11-24 03:01:08: bomyPandas done...
-Data updated for SUIUSDT (4/6)
-Progress: 66.67%
-2024-11-24 03:01:08: Data updated for SUIUSDT
-2024-11-24 03:01:08: bomyPandas init...
-2024-11-24 03:01:08:  <class 'pandas.core.frame.DataFrame'>
-2024-11-24 03:01:08: bomyPandas columns -->
+2024-12-18 19:01:07: bomyPandas done...
+Data updated for BONKUSDT (4/11)
+Progress: 36.36%
+2024-12-18 19:01:07: Data updated for BONKUSDT
+2024-12-18 19:01:08: bomyPandas init...
+2024-12-18 19:01:08:  <class 'pandas.core.frame.DataFrame'>
+2024-12-18 19:01:08: bomyPandas columns -->
 ---------------------------------------
 index: int64
 Open Time: datetime64[ns]
@@ -110,13 +110,13 @@ Taker Buy Quote Asset Volume: object
 Ignore: object
 ts_date: datetime64[ns]
 ---------------------------------------
-2024-11-24 03:01:08: bomyPandas done...
-Data updated for DOGEUSDT (5/6)
-Progress: 83.33%
-2024-11-24 03:01:08: Data updated for DOGEUSDT
-2024-11-24 03:01:09: bomyPandas init...
-2024-11-24 03:01:09:  <class 'pandas.core.frame.DataFrame'>
-2024-11-24 03:01:09: bomyPandas columns -->
+2024-12-18 19:01:08: bomyPandas done...
+Data updated for SUIUSDT (5/11)
+Progress: 45.45%
+2024-12-18 19:01:08: Data updated for SUIUSDT
+2024-12-18 19:01:09: bomyPandas init...
+2024-12-18 19:01:09:  <class 'pandas.core.frame.DataFrame'>
+2024-12-18 19:01:09: bomyPandas columns -->
 ---------------------------------------
 index: int64
 Open Time: datetime64[ns]
@@ -133,7 +133,122 @@ Taker Buy Quote Asset Volume: object
 Ignore: object
 ts_date: datetime64[ns]
 ---------------------------------------
-2024-11-24 03:01:09: bomyPandas done...
-Data updated for ETHUSDT (6/6)
+2024-12-18 19:01:09: bomyPandas done...
+Data updated for DOGEUSDT (6/11)
+Progress: 54.55%
+2024-12-18 19:01:09: Data updated for DOGEUSDT
+2024-12-18 19:01:10: bomyPandas init...
+2024-12-18 19:01:10:  <class 'pandas.core.frame.DataFrame'>
+2024-12-18 19:01:10: bomyPandas columns -->
+---------------------------------------
+index: int64
+Open Time: datetime64[ns]
+Open: float64
+High: float64
+Low: float64
+Close: float64
+Volume: float64
+Close Time: datetime64[ns]
+Quote Asset Volume: object
+Number of Trades: int64
+Taker Buy Base Asset Volume: object
+Taker Buy Quote Asset Volume: object
+Ignore: object
+ts_date: datetime64[ns]
+---------------------------------------
+2024-12-18 19:01:10: bomyPandas done...
+Data updated for ETHUSDT (7/11)
+Progress: 63.64%
+2024-12-18 19:01:10: Data updated for ETHUSDT
+2024-12-18 19:01:11: bomyPandas init...
+2024-12-18 19:01:11:  <class 'pandas.core.frame.DataFrame'>
+2024-12-18 19:01:11: bomyPandas columns -->
+---------------------------------------
+index: int64
+Open Time: datetime64[ns]
+Open: float64
+High: float64
+Low: float64
+Close: float64
+Volume: float64
+Close Time: datetime64[ns]
+Quote Asset Volume: object
+Number of Trades: int64
+Taker Buy Base Asset Volume: object
+Taker Buy Quote Asset Volume: object
+Ignore: object
+ts_date: datetime64[ns]
+---------------------------------------
+2024-12-18 19:01:11: bomyPandas done...
+Data updated for XLMUSDT (8/11)
+Progress: 72.73%
+2024-12-18 19:01:11: Data updated for XLMUSDT
+2024-12-18 19:01:12: bomyPandas init...
+2024-12-18 19:01:12:  <class 'pandas.core.frame.DataFrame'>
+2024-12-18 19:01:12: bomyPandas columns -->
+---------------------------------------
+index: int64
+Open Time: datetime64[ns]
+Open: float64
+High: float64
+Low: float64
+Close: float64
+Volume: float64
+Close Time: datetime64[ns]
+Quote Asset Volume: object
+Number of Trades: int64
+Taker Buy Base Asset Volume: object
+Taker Buy Quote Asset Volume: object
+Ignore: object
+ts_date: datetime64[ns]
+---------------------------------------
+2024-12-18 19:01:12: bomyPandas done...
+Data updated for XRPUSDT (9/11)
+Progress: 81.82%
+2024-12-18 19:01:12: Data updated for XRPUSDT
+2024-12-18 19:01:13: bomyPandas init...
+2024-12-18 19:01:13:  <class 'pandas.core.frame.DataFrame'>
+2024-12-18 19:01:13: bomyPandas columns -->
+---------------------------------------
+index: int64
+Open Time: datetime64[ns]
+Open: float64
+High: float64
+Low: float64
+Close: float64
+Volume: float64
+Close Time: datetime64[ns]
+Quote Asset Volume: object
+Number of Trades: int64
+Taker Buy Base Asset Volume: object
+Taker Buy Quote Asset Volume: object
+Ignore: object
+ts_date: datetime64[ns]
+---------------------------------------
+2024-12-18 19:01:13: bomyPandas done...
+Data updated for TONUSDT (10/11)
+Progress: 90.91%
+2024-12-18 19:01:13: Data updated for TONUSDT
+2024-12-18 19:01:13: bomyPandas init...
+2024-12-18 19:01:13:  <class 'pandas.core.frame.DataFrame'>
+2024-12-18 19:01:13: bomyPandas columns -->
+---------------------------------------
+index: int64
+Open Time: datetime64[ns]
+Open: float64
+High: float64
+Low: float64
+Close: float64
+Volume: float64
+Close Time: datetime64[ns]
+Quote Asset Volume: object
+Number of Trades: int64
+Taker Buy Base Asset Volume: object
+Taker Buy Quote Asset Volume: object
+Ignore: object
+ts_date: datetime64[ns]
+---------------------------------------
+2024-12-18 19:01:13: bomyPandas done...
+Data updated for HBARUSDT (11/11)
 Progress: 100.00%
-2024-11-24 03:01:09: Data updated for ETHUSDT
+2024-12-18 19:01:13: Data updated for HBARUSDT

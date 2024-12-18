@@ -125,6 +125,7 @@ def ems(ticker, size):
         'avgPx': [avgPx],
         'trailing': [trailing]
     }
+    discord.post(content=f'no issues in trades.db handling...')
     dfe = pd.DataFrame(data)
     dfe.to_sql('trades', connt, if_exists='append', index=False)
     connt.close()
@@ -133,6 +134,7 @@ def ems(ticker, size):
 # Function to check if there was a breakout in the last 60 minutes
 def oms(ticker, current_price):
     print(f"OMS triggered for {ticker}")
+    discord.post(content=f'ex-ante read oms.db...')
     # Connect to the SQLite database
     conn_o = sqlite3.connect('oms.db', uri=True)
     size = notional_usd / current_price
@@ -146,6 +148,7 @@ def oms(ticker, current_price):
         size = round(size, 3)
 
     dfo = pd.read_sql_query("SELECT * FROM oms", conn_o)
+    discord.post(content=f'ex-post read oms.db...')
     current_timestamp = datetime.now()
     # Check if there's an entry for the given ticker
     if ticker in dfo['ticker'].values:
@@ -158,6 +161,8 @@ def oms(ticker, current_price):
                            (current_timestamp, current_price, current_price, ticker))
             ems(ticker, size)
             print(f"Updated open_trade value for {ticker} to 1 and last_update timestamp")
+            discord.post(content=f'Updated open_trade value for {ticker} to 1 and last_update timestamp')
+
         else:
             print(f"Open trade already exists for {ticker}")
             discord.post(content=f'Open trade already exists for {ticker}')

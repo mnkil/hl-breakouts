@@ -1,7 +1,7 @@
 tickers:
   - PEPEUSDT
 #  - INJTUSD
-#  - WIFUSDT
+  - WIFUSDT
 #  - SHIBUSDT
 #  - BEAMXUSDT
   - SOLUSDT  
@@ -9,3 +9,7 @@ tickers:
   - SUIUSDT
   - DOGEUSDT
   - ETHUSDT
+  - XLMUSDT
+  - XRPUSDT
+  - TONUSDT
+  - HBARUSDT
